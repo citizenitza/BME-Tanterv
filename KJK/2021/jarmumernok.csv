@@ -1,146 +1,150 @@
-﻿Tárgy neve;Tárgykód;Kredit;Előadás;Gyakorlat;Labor;Konzultáció;Követelmény;Félév;Típus;Előtanulmány;
-Matematika A1a;TE90AX00;6;4;2;0;0;Vizsga;1;Torzs;-;
-Fizika K;TE15AX17;3;2;0;0;0;Vizsga;1;Torzs;-;
-Műszaki kémia;VEKTAKO1;3;2;0;1;0;Vizsga;1;Torzs;-;
-JKL rendszerek;KOVRA189;3;4;0;0;0;Félévközi jegy;1;Torzs;-;
-Mérnöki alapismeretek;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-;
-Programozás;KOKAA146;7;2;0;4;0;Félévközi jegy;1;Torzs;-;
-Műszaki ábrázolás 1.;KOJSA498;6;2;3;0;0;Félévközi jegy;1;Torzs;-;
-Matematika A2a;TE90AX02;6;4;2;0;0;Vizsga;2;Torzs;TE90AX00,;
-Anyagismeret;KOJJA106;4;2;0;2;0;Vizsga;2;Torzs;VEKTAKO1$,;
-Mechanika 1;KOJSA191;5;2;3;0;0;Vizsga;2;Torzs;KOVRA190$,;
-Elektrotechnika - Elektronika;KOKAA139;6;3;2;0;0;Vizsga;2;Torzs;TE15AX17,;
-Műszaki ábrázolás 2.;KOJSA499;5;2;3;0;0;Félévközi jegy;2;Torzs;KOJSA498,;
-Szabadon választható 1;-;2;2;0;0;0;Félévközi jegy;2;Torzs;-;
-Matematika A3k;TE90AX53;4;2;2;0;0;Vizsga;3;Torzs;TE90AX02,;
-Mechanika 2;EOTMAK02;4;2;2;0;0;Vizsga;3;Torzs;KOJSA191,TE90AX00,;
-Szerkezetek statikája;KOJSA192;2;0;2;0;0;Félévközi jegy;3;Torzs;KOJSA191,;
-Hő- és áramlástan 1.;KOVRA194;3;1;1;1;0;Vizsga;3;Torzs;KOVRA190$,TE90AX02$,TE90AX53$,;
-Jármű- és hajtáselemek 1.;KOJSA493;4;1;2;0;0;Vizsga;3;Torzs;KOJSA499,;
-Mérnöki számítások;KOVRA431;3;1;0;1;0;Félévközi jegy;3;Torzs;TE90AX00,TE90AX02$,;
-Járműszerkezeti anyaggok és technológiák;KOGJA450;6;4;0;2;0;Félévközi jegy;3;Torzs;KOJJA106,;
-Szabadon választható 2;-;2;2;0;0;0;Félévközi jegy;3;Torzs;-;
-Hő- és áramlástan 2.;KOVRA195;4;2;0;1;0;Vizsga;4;Torzs;KOVRA194,KOVRA190$,TE90AX53$,;
-Járműmérnöki mechanika ;KOJSA595;3;2;2;0;0;Vizsga;4;Torzs;KOJSA191,;
-Járműmérnöki matematika;KOVRA594;4;1;2;0;0;Félévközi jegy;4;Torzs;KOVRA431,TE90AX53$,;
-Jármű- és hajtáselemek 2.;KOJSA494;4;1;2;0;0;Vizsga;4;Torzs;KOJSA499,;
-Járműgyártás és javítás;KOJJA162;5;2;1;1;0;Vizsga;4;Torzs;KOGJA450,;
-Minőségügy a járműtechnikában;KOGJA154;2;2;0;0;0;Félévközi jegy;4;Torzs;-;
-Jármű vázszerkezetek;KOJKA165;3;2;1;0;0;Félévközi jegy;5;Torzs;-;
-Jármű- és hajtáselemek 3.;KOJSA495;3;0;2;0;0;Vizsga;5;Torzs;KOJSA499,KOJSA494~,;
-Járművek hő- és áramlástech. berendezései 1.;KOVRA496;4;1;1;1;0;Vizsga;5;Torzs;KOVRA195,KOVRA190$,TE90AX53$,;
-Logikai hálózatok;KOKAA137;3;2;1;0;0;Félévközi jegy;5;Torzs;KOKAA139~,KOKAA146$,;
-Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;5;Torzs;KOKAA146,KOKAA139~,TE90AX53$,;
-Szabadon választható 3;-;2;2;0;0;0;Félévközi jegy;5;Torzs;-;
-Járművek hő- és áramlástech. berendezései 2.;KOVRA497;4;1;1;1;0;Vizsga;6;Torzs;KOVRA195,KOVRA190$,TE90AX53$,;
-Mikro- és makroökonómia;GT30A400;4;3;0;0;0;Félévközi jegy;6;Torzs;-;
-Üzleti jog;GT55A001;2;2;0;0;0;Félévközi jegy;6;Torzs;-;
-Szabadon választható 4;-;2;2;0;0;0;Félévközi jegy;6;Torzs;-;
-Szabadon választható 5;-;2;2;0;0;0;Félévközi jegy;6;Torzs;-;
-Menedzsment és vállalkozás gazdaságtan;KOKGA109;4;3;0;0;0;Félévközi jegy;7;Torzs;-;
-Munkavédelem;KOEAA111;2;2;0;0;0;Félévközi jegy;7;Torzs;-;
-Üzemszervezés;KOKUA169;2;2;0;0;0;Félévközi jegy;7;Torzs;-;
-Szakdolgozat;-;15;0;8;0;0;Vizsga;7;Torzs;-;
-Gépjárművek erőátvitele I.;KOGJA511;3;2;0;1;0;Félévközi jegy;4;Szakirany_gepjarmuvek;-;
-Gépjármű futóművek I.;KOGJA513;5;2;1;0;0;Félévközi jegy;4;Szakirany_gepjarmuvek;-;
-Gépjárművek erőátvitele II.;KOGJA512;4;0;1;1;0;Félévközi jegy;5;Szakirany_gepjarmuvek;-;
-Gépjármű futóművek II.;KOGJA514;5;2;1;2;0;Vizsga;5;Szakirany_gepjarmuvek;KOGJA513,;
-Gépjármű motorok I.;KOGJA515;4;3;0;0;0;Félévközi jegy;5;Szakirany_gepjarmuvek;KOVRA496!,;
-Gépjármű motorok II.;KOGJA516;8;4;2;2;0;Vizsga;6;Szakirany_gepjarmuvek;KOGJA515,;
-Gépjárművek üzeme I.;KOGJA517;4;1;0;2;0;Vizsga;6;Szakirany_gepjarmuvek;KOGJA513$,KOGJA514$,;
-Gépjármű elektronika I.;KOGJA519;5;2;1;0;0;Vizsga;6;Szakirany_gepjarmuvek;KOKAA138,;
-Gépjárművek üzeme II.;KOGJA518;3;2;1;0;0;Félévközi jegy;7;Szakirany_gepjarmuvek;KOGJA517,;
-Gépjármű elektronika II.;KOGJA520;4;2;0;2;0;Félévközi jegy;7;Szakirany_gepjarmuvek;KOGJA519,;
-Aerodinamika;KORHA545;4;1;1;1;0;Félévközi jegy;4;Szakirany_legijarmuvek2024;KOVRA194,;
-Fenntartható repülés;KORHA546 ;4;2;1;0;0;Félévközi jegy;4;Szakirany_legijarmuvek2024;-;
-Repülésmechanika;KORHA548;4;0;2;1;0;Félévközi jegy;5;Szakirany_legijarmuvek2024;KORHA545$,;
-Repülőgépek szerkezete;KORHA553;4;2;0;1;0;Vizsga;5;Szakirany_legijarmuvek2024;KORHA545,KOGJA450,KOJSA493,;
-Repülőgépek karbantartása és dokumentációi;KORHA557;5;2;0;2;0;Félévközi jegy;5;Szakirany_legijarmuvek2024;KORHA555$,;
-Repülőgépek rendszerei és avionika;KORHA550;8;2;3;2;0;Vizsga;6;Szakirany_legijarmuvek2024;KORHA548,KORHA553,;
-Repülőgép hajtóművek;KORHA556;6;2;1;2;0;Vizsga;6;Szakirany_legijarmuvek2024;KOVRA194,;
-Környezetvédelem és repülésbiztonság;KORHA547;3;2;0;0;0;Vizsga;6;Szakirany_legijarmuvek2024;KORHA548,;
-Repülőgép hajtóművek szerkezete;KORHA549;2;2;0;0;0;Félévközi jegy;7;Szakirany_legijarmuvek2024;KORHA556,KOVRA496$,TE90AX53$,;
-Repülőgépek tervezési lépései és gyártása;KORHA558;5;2;1;2;0;Félévközi jegy;7;Szakirany_legijarmuvek2024;KORHA553,;
-Aerodinamika;KOVRA454;3;2;0;1;0;Félévközi jegy;4;Szakirany_legijarmuvek;KOVRA194,;
-Repülőgép hajtóművek elmélete I.;KOVRA451;5;2;1;0;0;Félévközi jegy;4;Szakirany_legijarmuvek;KOVRA194,KOVRA190$,TE90AX53$,;
-Repülőgép hajtóművek elmélete II.;KORHA522;4;2;1;1;0;Vizsga;5;Szakirany_legijarmuvek;KOVRA451,KOVRA195$,TE90AX53$,;
-Repülőgépek szerkezete;KORHA526;5;2;0;1;0;Félévközi jegy;5;Szakirany_legijarmuvek;KOVRA454,KOGJA450,KOJSA493,;
-Repülésmechanika;KORHA525;4;2;1;0;0;Félévközi jegy;5;Szakirany_legijarmuvek;KOVRA454$,;
-Fenntartható repülés;KOVRA458;8;4;0;1;0;Vizsga;6;Szakirany_legijarmuvek;-;
-Repülőgép hajtóművek szerkezete;KOVRA453;4;2;1;1;0;Vizsga;6;Szakirany_legijarmuvek;KORHA522,KOVRA496$,TE90AX53$,;
-Repülőgépek rendszerei és avionika;KOVRA457;5;2;1;2;0;Vizsga;6;Szakirany_legijarmuvek;KORHA525,KORHA526,;
-Környezetvédelem, repülésbiztonság és légialkalmasság;KOVRA462;3;2;1;0;0;Félévközi jegy;7;Szakirany_legijarmuvek;KORHA525,KORHA522,;
-Légi eszközök;KOVRA461;4;2;1;1;0;Félévközi jegy;7;Szakirany_legijarmuvek;KORHA522,KOVRA496$,KOVRA497$,;
-Jármű hidraulika és pneumatika;KOEAA545;4;2;0;1;0;Félévközi jegy;4;Szakirany_jarmumechatronika;-;
-Járműfedélzeti rendszerek I.;KOKAA573;4;1;2;0;0;Félévközi jegy;4;Szakirany_jarmumechatronika;-;
-Érzékelők és beavatkozók I.;KOKAA576;4;2;0;1;0;Félévközi jegy;5;Szakirany_jarmumechatronika;-;
-Járműfedélzeti rendszerek II.;KOKAA574;5;2;2;0;0;Vizsga;5;Szakirany_jarmumechatronika;KOKAA573,;
-Járműirányítás I.;KOKAA578;4;2;1;0;0;Félévközi jegy;5;Szakirany_jarmumechatronika;-;
-Járműfedélzeti rendszerek III.;KOKAA575;5;2;0;2;0;Vizsga;6;Szakirany_jarmumechatronika;KOKAA574,;
-Érzékelők és beavatkozók II.;KOKAA577;4;2;0;2;0;Vizsga;6;Szakirany_jarmumechatronika;KOKAA576,;
-Járműirányítás II.;KOKAA579;4;2;1;0;0;Vizsga;6;Szakirany_jarmumechatronika;KOKAA578,KOKAA138,KOKAA576$,;
-Járműfedélzeti kommunikáció;KOKAA580;4;2;1;0;0;Félévközi jegy;6;Szakirany_jarmumechatronika;KOKAA139,;
-Megbízhatóság és biztonság;KOKAA582;3;2;1;0;0;Félévközi jegy;7;Szakirany_jarmumechatronika;-;
-Mobil gépek mechatrinokája;KOEAA581;4;1;1;2;0;Félévközi jegy;7;Szakirany_jarmumechatronika;-;
-Járműanyagok;KOJJA565;8;4;1;1;0;Félévközi jegy;4;Szakirany_jarmugyartas;KOJJA106,;
-Szenzorika és anyagai ;KOJJA441;2;2;0;0;0;Félévközi jegy;5;Szakirany_jarmugyartas;TE15AX17,KOJJA106,;
-Gyártásautomatizálás;KOJJA567;7;2;2;1;0;Vizsga;5;Szakirany_jarmugyartas;KOGJA450,;
-Járműgyártás folyamatai I.;KOJJA568;4;2;0;1;0;Félévközi jegy;5;Szakirany_jarmugyartas;KOJJA106,;
-Járműgyártás folyamatai II.;KOJJA569;13;4;3;3;0;Vizsga;6;Szakirany_jarmugyartas;KOJJA568,;
-Minőségügyi rendszerek;KOJJA570;4;4;0;0;0;Vizsga;6;Szakirany_jarmugyartas;KOGJA154,;
-Járműdiagnosztika;KOJJA572;3;1;0;1;0;Félévközi jegy;7;Szakirany_jarmugyartas;-;
-Szerelés;KOJJA571;4;2;2;1;0;Félévközi jegy;7;Szakirany_jarmugyartas;KOJJA569,KOJJA570$,;
-Vasúti jármű mechatronika;KOVJA530;3;1;0;1;0;Félévközi jegy;4;Szakirany_vasutijarmuvek;KOKAA139,;
-Vasúti járműszerkezetek I.;KOVJA502;5;2;2;0;0;Félévközi jegy;4;Szakirany_vasutijarmuvek;-;
-Vasúti járműszerkezetek II.;KOVJA503;3;2;1;0;0;Vizsga;5;Szakirany_vasutijarmuvek;-;
-Villamos vasutak I.;KOVJA506;6;2;2;0;0;Félévközi jegy;5;Szakirany_vasutijarmuvek;KOKAA139,;
-Dízel vontatójárművek I.;KOVJA504;4;2;0;1;0;Félévközi jegy;5;Szakirany_vasutijarmuvek;KOVRA194,;
-Dízel vontatójárművek II.;KOVJA505;5;2;1;0;0;Vizsga;6;Szakirany_vasutijarmuvek;KOVRA497$,;
-Vasúti járművek karbantartása és javítása;KOVJA592;3;2;0;1;0;Félévközi jegy;6;Szakirany_vasutijarmuvek;-;
-Villamos vasutak II.;KOVJA507;3;2;1;0;0;Vizsga;6;Szakirany_vasutijarmuvek;KOKAA139,KOVJA506$,;
-Vasúti járművek üzeme és diagnosztikája;KOVJA508;4;2;1;0;0;Vizsga;6;Szakirany_vasutijarmuvek;-;
-Vasúti fékberendezések ;KOVJA509;2;2;0;0;0;Félévközi jegy;6;Szakirany_vasutijarmuvek;-;
-Megbízhatóság és biztonság;KOKAA582;3;2;1;0;0;Félévközi jegy;7;Szakirany_vasutijarmuvek;-;
-Vasúti jármű méréstechnika és labor;KOVJA510;4;2;0;2;0;Félévközi jegy;7;Szakirany_vasutijarmuvek;KOVJA503$,;
-Hajók hajtása I.;KOVRA465;3;2;0;1;0;Félévközi jegy;4;Szakirany_vizijarmuvek;KOJSA191,;
-Hajók elmélete I.;KOVRA470;5;2;1;0;0;Félévközi jegy;4;Szakirany_vizijarmuvek;KOJSA191,;
-Hajók elmélete II.;KORHA534;4;1;1;1;0;Félévközi jegy;5;Szakirany_vizijarmuvek;KOVRA470,;
-Hajók hajtása II.;KOVRA466;5;1;1;1;0;Vizsga;5;Szakirany_vizijarmuvek;KOVRA465,;
-Hajószerkezettan;KOVRA467;4;2;2;0;0;Félévközi jegy;5;Szakirany_vizijarmuvek;KOJSA192,KOJJA106$,;
-Hajóépítés technológiája;KOVRA468;3;2;0;0;0;Félévközi jegy;6;Szakirany_vizijarmuvek;KOVRA467,KOGJA450$,;
-Fedélzeti berendezések;KOVRA471;5;3;1;0;0;Vizsga;6;Szakirany_vizijarmuvek;KORHA534,;
-Hajógépek;KOVRA469;4;2;2;0;0;Vizsga;6;Szakirany_vizijarmuvek;KOVRA496,;
-Hajó csőrendszerek;KOVRA474;3;2;0;0;0;Vizsga;6;Szakirany_vizijarmuvek;KOVRA195,;
-Hajózás I. (Hajózási üzemtan);KOVRA473;2;2;0;0;0;Félévközi jegy;6;Szakirany_vizijarmuvek;KOVRA470,;
-Hajózás II. (Hajózási gazdaságtan);KORHA544;3;2;0;1;0;Félévközi jegy;7;Szakirany_vizijarmuvek;KOVRA473,;
-Kishajók;KOVRA472;4;2;1;1;0;Félévközi jegy;7;Szakirany_vizijarmuvek;KORHA534,;
-Anyagmozgatógépek I.;KOALA486;4;2;0;1;0;Félévközi jegy;4;Szakirany_epitogepek;KOJSA191,;
-Hajtástechnika I.;KOALA488;4;1;2;0;0;Félévközi jegy;4;Szakirany_epitogepek;-;
-Építőipari projekt menedzsment;KOALA452;3;1;1;0;0;Félévközi jegy;5;Szakirany_epitogepek;-;
-Betontechnológiai gépek I.;KOALA484;5;2;1;1;0;Vizsga;5;Szakirany_epitogepek;-;
-Automatizálás-technika;KOALA492;5;2;1;1;0;Félévközi jegy;5;Szakirany_epitogepek;KOKAA139,;
-Betontechnológiai gépek II.;KOALA485;7;2;3;1;0;Vizsga;6;Szakirany_epitogepek;KOALA484,;
-Építőgépek I.;KOALA448;5;2;1;1;0;Vizsga;6;Szakirany_epitogepek;-;
-Hajtástechnika II.;KOALA489;5;2;1;1;0;Vizsga;6;Szakirany_epitogepek;KOALA488,;
-Mobilgépek fedélzeti eszközei;KOALA491;3;2;1;0;0;Félévközi jegy;7;Szakirany_epitogepek;-;
-Építőgépek II.;KOALA449;4;2;0;2;0;Félévközi jegy;7;Szakirany_epitogepek;-;
-Anyagmozgatógépek I.;KOALA486;4;2;0;1;0;Félévközi jegy;4;Szakirany_automatizaltanyagmozgato;KOJSA191,;
-Hajtástechnika I.;KOALA488;4;1;2;0;0;Félévközi jegy;4;Szakirany_automatizaltanyagmozgato;-;
-Anyagmozgatási projekt menedzsment;KOALA456;3;1;1;0;0;Félévközi jegy;5;Szakirany_automatizaltanyagmozgato;-;
-Anyagmozgatógépek II.;KOALA477;5;2;1;1;0;Vizsga;5;Szakirany_automatizaltanyagmozgato;KOJSA191,;
-Automatizálás-technika;KOALA492;5;2;1;1;0;Félévközi jegy;5;Szakirany_automatizaltanyagmozgato;KOKAA139,;
-Anyagmozgatási projekt;KOALA459;7;2;2;1;0;Vizsga;6;Szakirany_automatizaltanyagmozgato;KOALA486,KOALA477$,;
-Robottechnika;KOALA460;5;2;2;1;0;Vizsga;6;Szakirany_automatizaltanyagmozgato;-;
-Hajtástechnika II.;KOALA489;5;2;1;1;0;Vizsga;6;Szakirany_automatizaltanyagmozgato;KOALA488,;
-Mobilgépek fedélzeti eszközei;KOALA491;3;2;1;0;0;Félévközi jegy;7;Szakirany_automatizaltanyagmozgato;-;
-Járműipari anyagmozgatási rendszerek;KOALA430;4;2;0;2;0;Félévközi jegy;7;Szakirany_automatizaltanyagmozgato;KOALA486,;
-Felépítmény típusismeret;KOJSA483;3;2;0;0;0;Félévközi jegy;4;Szakirany_jarmufelepitmenyek;-;
-Járműfelépítmény mechanizmusok;KOJKA584;5;2;2;0;0;Félévközi jegy;4;Szakirany_jarmufelepitmenyek;KOJSA191,;
-Törés és károsodás;KOJSA478;4;3;0;0;0;Félévközi jegy;5;Szakirany_jarmufelepitmenyek;-;
-Felépítmény hidraulika és pneumatika;KOJSA475;5;2;0;2;0;Vizsga;5;Szakirany_jarmufelepitmenyek;-;
-Szendvics szerkezetek;KOJSA476;4;0;2;1;0;Félévközi jegy;5;Szakirany_jarmufelepitmenyek;-;
-Felépítmények dinamikája;KOJSA479;8;4;2;1;0;Vizsga;6;Szakirany_jarmufelepitmenyek;KOJKA165$,;
-Felépítmények vizsgálatai;KOJSA480;4;2;0;1;0;Vizsga;6;Szakirany_jarmufelepitmenyek;KOJKA165$,;
-Vázszserkezet számítás numerikus módszerei I.;KOJSA481;5;2;2;0;0;Vizsga;6;Szakirany_jarmufelepitmenyek;KOJKA165$,;
-Szilárdtest mechanika válogatott fejezetei;KOJSA482;3;2;1;0;0;Félévközi jegy;7;Szakirany_jarmufelepitmenyek;KOJSA479,;
-Vázszserkezet számítás numerikus módszerei II.;KOJSA487;4;2;0;2;0;Félévközi jegy;7;Szakirany_jarmufelepitmenyek;KOJSA481,;
+﻿Tárgy neve;Tárgykód;Kredit;Előadás;Gyakorlat;Labor;Konzultáció;Követelmény;Félév;Típus;Előtanulmány
+Matematika A1a;TE90AX00;6;4;2;0;0;Vizsga;1;Torzs;-
+Fizika K;TE15AX17;3;2;0;0;0;Vizsga;1;Torzs;-
+Műszaki kémia;VEKTAKO1;3;2;0;1;0;Vizsga;1;Torzs;-
+JKL rendszerek;KOVRA189;3;4;0;0;0;Félévközi jegy;1;Torzs;-
+Mérnöki alapismeretek;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
+Programozás;KOKAA146;7;2;0;4;0;Félévközi jegy;1;Torzs;-
+Műszaki ábrázolás 1.;KOJSA498;6;2;3;0;0;Félévközi jegy;1;Torzs;-
+Matematika A2a;TE90AX02;6;4;2;0;0;Vizsga;2;Torzs;TE90AX00,
+Anyagismeret;KOJJA106;4;2;0;2;0;Vizsga;2;Torzs;VEKTAKO1$,
+Mechanika 1;KOJSA191;5;2;3;0;0;Vizsga;2;Torzs;KOVRA190$,
+Elektrotechnika - Elektronika;KOKAA139;6;3;2;0;0;Vizsga;2;Torzs;TE15AX17,
+Műszaki ábrázolás 2.;KOJSA499;5;2;3;0;0;Félévközi jegy;2;Torzs;KOJSA498,
+Szabadon választható 1;-;2;2;0;0;0;Félévközi jegy;2;Torzs;-
+Matematika A3k;TE90AX53;4;2;2;0;0;Vizsga;3;Torzs;TE90AX02,
+Mechanika 2;EOTMAK02;4;2;2;0;0;Vizsga;3;Torzs;KOJSA191,TE90AX00,
+Szerkezetek statikája;KOJSA192;2;0;2;0;0;Félévközi jegy;3;Torzs;KOJSA191,
+Hő- és áramlástan 1.;KOVRA194;3;1;1;1;0;Vizsga;3;Torzs;KOVRA190$,TE90AX02$,TE90AX53$,
+Jármű- és hajtáselemek 1.;KOJSA493;4;1;2;0;0;Vizsga;3;Torzs;KOJSA499,
+Mérnöki számítások;KOVRA431;3;1;0;1;0;Félévközi jegy;3;Torzs;TE90AX00,TE90AX02$,
+Járműszerkezeti anyaggok és technológiák;KOGJA450;6;4;0;2;0;Félévközi jegy;3;Torzs;KOJJA106,
+Szabadon választható 2;-;2;2;0;0;0;Félévközi jegy;3;Torzs;-
+Hő- és áramlástan 2.;KOVRA195;4;2;0;1;0;Vizsga;4;Torzs;KOVRA194,KOVRA190$,TE90AX53$,
+Járműmérnöki mechanika ;KOJSA595;3;2;2;0;0;Vizsga;4;Torzs;KOJSA191,
+Járműmérnöki matematika;KOVRA594;4;1;2;0;0;Félévközi jegy;4;Torzs;KOVRA431,TE90AX53$,
+Jármű- és hajtáselemek 2.;KOJSA494;4;1;2;0;0;Vizsga;4;Torzs;KOJSA499,
+Járműgyártás és javítás;KOJJA162;5;2;1;1;0;Vizsga;4;Torzs;KOGJA450,
+Minőségügy a járműtechnikában;KOGJA154;2;2;0;0;0;Félévközi jegy;4;Torzs;-
+Jármű vázszerkezetek;KOJKA165;3;2;1;0;0;Félévközi jegy;5;Torzs;-
+Jármű- és hajtáselemek 3.;KOJSA495;3;0;2;0;0;Vizsga;5;Torzs;KOJSA499,KOJSA494~,
+Járművek hő- és áramlástech. berendezései 1.;KOVRA496;4;1;1;1;0;Vizsga;5;Torzs;KOVRA195,KOVRA190$,TE90AX53$,
+Logikai hálózatok;KOKAA137;3;2;1;0;0;Félévközi jegy;5;Torzs;KOKAA139~,KOKAA146$,
+Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;5;Torzs;KOKAA146,KOKAA139~,TE90AX53$,
+Szabadon választható 3;-;2;2;0;0;0;Félévközi jegy;5;Torzs;-
+Járművek hő- és áramlástech. berendezései 2.;KOVRA497;4;1;1;1;0;Vizsga;6;Torzs;KOVRA195,KOVRA190$,TE90AX53$,
+Mikro- és makroökonómia;GT30A400;4;3;0;0;0;Félévközi jegy;6;Torzs;-
+Üzleti jog;GT55A001;2;2;0;0;0;Félévközi jegy;6;Torzs;-
+Szabadon választható 4;-;2;2;0;0;0;Félévközi jegy;6;Torzs;-
+Szabadon választható 5;-;2;2;0;0;0;Félévközi jegy;6;Torzs;-
+Menedzsment és vállalkozás gazdaságtan;KOKGA109;4;3;0;0;0;Félévközi jegy;7;Torzs;-
+Munkavédelem;KOEAA111;2;2;0;0;0;Félévközi jegy;7;Torzs;-
+Üzemszervezés;KOKUA169;2;2;0;0;0;Félévközi jegy;7;Torzs;-
+Szakdolgozat;-;15;0;8;0;0;Vizsga;7;Torzs;-
+Gépjárművek erőátvitele I.;KOGJA511;3;2;0;1;0;Félévközi jegy;4;Szakirany_gepjarmuvek;-
+Gépjármű futóművek I.;KOGJA513;5;2;1;0;0;Félévközi jegy;4;Szakirany_gepjarmuvek;-
+Gépjárművek erőátvitele II.;KOGJA512;4;0;1;1;0;Félévközi jegy;5;Szakirany_gepjarmuvek;-
+Gépjármű futóművek II.;KOGJA514;5;2;1;2;0;Vizsga;5;Szakirany_gepjarmuvek;KOGJA513,
+Gépjármű motorok I.;KOGJA515;4;3;0;0;0;Félévközi jegy;5;Szakirany_gepjarmuvek;KOVRA496!,
+Gépjármű motorok II.;KOGJA516;8;4;2;2;0;Vizsga;6;Szakirany_gepjarmuvek;KOGJA515,
+Gépjárművek üzeme I.;KOGJA517;4;1;0;2;0;Vizsga;6;Szakirany_gepjarmuvek;KOGJA513$,KOGJA514$,
+Gépjármű elektronika I.;KOGJA519;5;2;1;0;0;Vizsga;6;Szakirany_gepjarmuvek;KOKAA138,
+Gépjárművek üzeme II.;KOGJA518;3;2;1;0;0;Félévközi jegy;7;Szakirany_gepjarmuvek;KOGJA517,
+Gépjármű elektronika II.;KOGJA520;4;2;0;2;0;Félévközi jegy;7;Szakirany_gepjarmuvek;KOGJA519,
+Aerodinamika;KORHA545;4;1;1;1;0;Félévközi jegy;4;Szakirany_legijarmuvek2024;KOVRA194,
+Fenntartható repülés;KORHA546 ;4;2;1;0;0;Félévközi jegy;4;Szakirany_legijarmuvek2024;-
+Repülésmechanika;KORHA548;4;0;2;1;0;Félévközi jegy;5;Szakirany_legijarmuvek2024;KORHA545$,
+Repülőgépek szerkezete;KORHA553;4;2;0;1;0;Vizsga;5;Szakirany_legijarmuvek2024;KORHA545,KOGJA450,KOJSA493,
+Repülőgépek karbantartása és dokumentációi;KORHA557;5;2;0;2;0;Félévközi jegy;5;Szakirany_legijarmuvek2024;KORHA555$,
+Repülőgépek rendszerei és avionika;KORHA550;8;2;3;2;0;Vizsga;6;Szakirany_legijarmuvek2024;KORHA548,KORHA553,
+Repülőgép hajtóművek;KORHA556;6;2;1;2;0;Vizsga;6;Szakirany_legijarmuvek2024;KOVRA194,
+Környezetvédelem és repülésbiztonság;KORHA547;3;2;0;0;0;Vizsga;6;Szakirany_legijarmuvek2024;KORHA548,
+Repülőgép hajtóművek szerkezete;KORHA549;2;2;0;0;0;Félévközi jegy;7;Szakirany_legijarmuvek2024;KORHA556,KOVRA496$,TE90AX53$,
+Repülőgépek tervezési lépései és gyártása;KORHA558;5;2;1;2;0;Félévközi jegy;7;Szakirany_legijarmuvek2024;KORHA553,
+Aerodinamika;KOVRA454;3;2;0;1;0;Félévközi jegy;4;Szakirany_legijarmuvek;KOVRA194,
+Repülőgép hajtóművek elmélete I.;KOVRA451;5;2;1;0;0;Félévközi jegy;4;Szakirany_legijarmuvek;KOVRA194,KOVRA190$,TE90AX53$,
+Repülőgép hajtóművek elmélete II.;KORHA522;4;2;1;1;0;Vizsga;5;Szakirany_legijarmuvek;KOVRA451,KOVRA195$,TE90AX53$,
+Repülőgépek szerkezete;KORHA526;5;2;0;1;0;Félévközi jegy;5;Szakirany_legijarmuvek;KOVRA454,KOGJA450,KOJSA493,
+Repülésmechanika;KORHA525;4;2;1;0;0;Félévközi jegy;5;Szakirany_legijarmuvek;KOVRA454$,
+Fenntartható repülés;KOVRA458;8;4;0;1;0;Vizsga;6;Szakirany_legijarmuvek;-
+Repülőgép hajtóművek szerkezete;KOVRA453;4;2;1;1;0;Vizsga;6;Szakirany_legijarmuvek;KORHA522,KOVRA496$,TE90AX53$,
+Repülőgépek rendszerei és avionika;KOVRA457;5;2;1;2;0;Vizsga;6;Szakirany_legijarmuvek;KORHA525,KORHA526,
+Környezetvédelem, repülésbiztonság és légialkalmasság;KOVRA462;3;2;1;0;0;Félévközi jegy;7;Szakirany_legijarmuvek;KORHA525,KORHA522,
+Légi eszközök;KOVRA461;4;2;1;1;0;Félévközi jegy;7;Szakirany_legijarmuvek;KORHA522,KOVRA496$,KOVRA497$,
+Jármű hidraulika és pneumatika;KOEAA545;4;2;0;1;0;Félévközi jegy;4;Szakirany_jarmumechatronika;-
+Járműfedélzeti rendszerek I.;KOKAA573;4;1;2;0;0;Félévközi jegy;4;Szakirany_jarmumechatronika;-
+Érzékelők és beavatkozók I.;KOKAA576;4;2;0;1;0;Félévközi jegy;5;Szakirany_jarmumechatronika;-
+Járműfedélzeti rendszerek II.;KOKAA574;5;2;2;0;0;Vizsga;5;Szakirany_jarmumechatronika;KOKAA573,
+Járműirányítás I.;KOKAA578;4;2;1;0;0;Félévközi jegy;5;Szakirany_jarmumechatronika;-
+Járműfedélzeti rendszerek III.;KOKAA575;5;2;0;2;0;Vizsga;6;Szakirany_jarmumechatronika;KOKAA574,
+Érzékelők és beavatkozók II.;KOKAA577;4;2;0;2;0;Vizsga;6;Szakirany_jarmumechatronika;KOKAA576,
+Járműirányítás II.;KOKAA579;4;2;1;0;0;Vizsga;6;Szakirany_jarmumechatronika;KOKAA578,KOKAA138,KOKAA576$,
+Járműfedélzeti kommunikáció;KOKAA580;4;2;1;0;0;Félévközi jegy;6;Szakirany_jarmumechatronika;KOKAA139,
+Megbízhatóság és biztonság;KOKAA582;3;2;1;0;0;Félévközi jegy;7;Szakirany_jarmumechatronika;-
+Mobil gépek mechatrinokája;KOEAA581;4;1;1;2;0;Félévközi jegy;7;Szakirany_jarmumechatronika;-
+Járműanyagok;KOJJA565;8;4;1;1;0;Félévközi jegy;4;Szakirany_jarmugyartas;KOJJA106,
+Szenzorika és anyagai ;KOJJA441;2;2;0;0;0;Félévközi jegy;5;Szakirany_jarmugyartas;TE15AX17,KOJJA106,
+Gyártásautomatizálás;KOJJA567;7;2;2;1;0;Vizsga;5;Szakirany_jarmugyartas;KOGJA450,
+Járműgyártás folyamatai I.;KOJJA568;4;2;0;1;0;Félévközi jegy;5;Szakirany_jarmugyartas;KOJJA106,
+Járműgyártás folyamatai II.;KOJJA569;13;4;3;3;0;Vizsga;6;Szakirany_jarmugyartas;KOJJA568,
+Minőségügyi rendszerek;KOJJA570;4;4;0;0;0;Vizsga;6;Szakirany_jarmugyartas;KOGJA154,
+Járműdiagnosztika;KOJJA572;3;1;0;1;0;Félévközi jegy;7;Szakirany_jarmugyartas;-
+Szerelés;KOJJA571;4;2;2;1;0;Félévközi jegy;7;Szakirany_jarmugyartas;KOJJA569,KOJJA570$,
+Vasúti jármű mechatronika;KOVJA530;3;1;0;1;0;Félévközi jegy;4;Szakirany_vasutijarmuvek;KOKAA139,
+Vasúti járműszerkezetek I.;KOVJA502;5;2;2;0;0;Félévközi jegy;4;Szakirany_vasutijarmuvek;-
+Vasúti járműszerkezetek II.;KOVJA503;3;2;1;0;0;Vizsga;5;Szakirany_vasutijarmuvek;-
+Villamos vasutak I.;KOVJA506;6;2;2;0;0;Félévközi jegy;5;Szakirany_vasutijarmuvek;KOKAA139,
+Dízel vontatójárművek I.;KOVJA504;4;2;0;1;0;Félévközi jegy;5;Szakirany_vasutijarmuvek;KOVRA194,
+Dízel vontatójárművek II.;KOVJA505;5;2;1;0;0;Vizsga;6;Szakirany_vasutijarmuvek;KOVRA497$,
+Vasúti járművek karbantartása és javítása;KOVJA592;3;2;0;1;0;Félévközi jegy;6;Szakirany_vasutijarmuvek;-
+Villamos vasutak II.;KOVJA507;3;2;1;0;0;Vizsga;6;Szakirany_vasutijarmuvek;KOKAA139,KOVJA506$,
+Vasúti járművek üzeme és diagnosztikája;KOVJA508;4;2;1;0;0;Vizsga;6;Szakirany_vasutijarmuvek;-
+Vasúti fékberendezések ;KOVJA509;2;2;0;0;0;Félévközi jegy;6;Szakirany_vasutijarmuvek;-
+Megbízhatóság és biztonság;KOKAA582;3;2;1;0;0;Félévközi jegy;7;Szakirany_vasutijarmuvek;-
+Vasúti jármű méréstechnika és labor;KOVJA510;4;2;0;2;0;Félévközi jegy;7;Szakirany_vasutijarmuvek;KOVJA503$,
+Hajók hajtása I.;KOVRA465;3;2;0;1;0;Félévközi jegy;4;Szakirany_vizijarmuvek;KOJSA191,
+Hajók elmélete I.;KOVRA470;5;2;1;0;0;Félévközi jegy;4;Szakirany_vizijarmuvek;KOJSA191,
+Hajók elmélete II.;KORHA534;4;1;1;1;0;Félévközi jegy;5;Szakirany_vizijarmuvek;KOVRA470,
+Hajók hajtása II.;KOVRA466;5;1;1;1;0;Vizsga;5;Szakirany_vizijarmuvek;KOVRA465,
+Hajószerkezettan;KOVRA467;4;2;2;0;0;Félévközi jegy;5;Szakirany_vizijarmuvek;KOJSA192,KOJJA106$,
+Hajóépítés technológiája;KOVRA468;3;2;0;0;0;Félévközi jegy;6;Szakirany_vizijarmuvek;KOVRA467,KOGJA450$,
+Fedélzeti berendezések;KOVRA471;5;3;1;0;0;Vizsga;6;Szakirany_vizijarmuvek;KORHA534,
+Hajógépek;KOVRA469;4;2;2;0;0;Vizsga;6;Szakirany_vizijarmuvek;KOVRA496,
+Hajó csőrendszerek;KOVRA474;3;2;0;0;0;Vizsga;6;Szakirany_vizijarmuvek;KOVRA195,
+Hajózás I. (Hajózási üzemtan);KOVRA473;2;2;0;0;0;Félévközi jegy;6;Szakirany_vizijarmuvek;KOVRA470,
+Hajózás II. (Hajózási gazdaságtan);KORHA544;3;2;0;1;0;Félévközi jegy;7;Szakirany_vizijarmuvek;KOVRA473,
+Kishajók;KOVRA472;4;2;1;1;0;Félévközi jegy;7;Szakirany_vizijarmuvek;KORHA534,
+Anyagmozgatógépek I.;KOALA486;4;2;0;1;0;Félévközi jegy;4;Szakirany_epitogepek;KOJSA191,
+Hajtástechnika I.;KOALA488;4;1;2;0;0;Félévközi jegy;4;Szakirany_epitogepek;-
+Építőipari projekt menedzsment;KOALA452;3;1;1;0;0;Félévközi jegy;5;Szakirany_epitogepek;-
+Betontechnológiai gépek I.;KOALA484;5;2;1;1;0;Vizsga;5;Szakirany_epitogepek;-
+Automatizálás-technika;KOALA492;5;2;1;1;0;Félévközi jegy;5;Szakirany_epitogepek;KOKAA139,
+Betontechnológiai gépek II.;KOALA485;7;2;3;1;0;Vizsga;6;Szakirany_epitogepek;KOALA484,
+Építőgépek I.;KOALA448;5;2;1;1;0;Vizsga;6;Szakirany_epitogepek;-
+Hajtástechnika II.;KOALA489;5;2;1;1;0;Vizsga;6;Szakirany_epitogepek;KOALA488,
+Mobilgépek fedélzeti eszközei;KOALA491;3;2;1;0;0;Félévközi jegy;7;Szakirany_epitogepek;-
+Építőgépek II.;KOALA449;4;2;0;2;0;Félévközi jegy;7;Szakirany_epitogepek;-
+Anyagmozgatógépek I.;KOALA486;4;2;0;1;0;Félévközi jegy;4;Szakirany_automatizaltanyagmozgato;KOJSA191,
+Hajtástechnika I.;KOALA488;4;1;2;0;0;Félévközi jegy;4;Szakirany_automatizaltanyagmozgato;-
+Anyagmozgatási projekt menedzsment;KOALA456;3;1;1;0;0;Félévközi jegy;5;Szakirany_automatizaltanyagmozgato;-
+Anyagmozgatógépek II.;KOALA477;5;2;1;1;0;Vizsga;5;Szakirany_automatizaltanyagmozgato;KOJSA191,
+Automatizálás-technika;KOALA492;5;2;1;1;0;Félévközi jegy;5;Szakirany_automatizaltanyagmozgato;KOKAA139,
+Anyagmozgatási projekt;KOALA459;7;2;2;1;0;Vizsga;6;Szakirany_automatizaltanyagmozgato;KOALA486,KOALA477$,
+Robottechnika;KOALA460;5;2;2;1;0;Vizsga;6;Szakirany_automatizaltanyagmozgato;-
+Hajtástechnika II.;KOALA489;5;2;1;1;0;Vizsga;6;Szakirany_automatizaltanyagmozgato;KOALA488,
+Mobilgépek fedélzeti eszközei;KOALA491;3;2;1;0;0;Félévközi jegy;7;Szakirany_automatizaltanyagmozgato;-
+Járműipari anyagmozgatási rendszerek;KOALA430;4;2;0;2;0;Félévközi jegy;7;Szakirany_automatizaltanyagmozgato;KOALA486,
+Felépítmény típusismeret;KOJSA483;3;2;0;0;0;Félévközi jegy;4;Szakirany_jarmufelepitmenyek;-
+Járműfelépítmény mechanizmusok;KOJKA584;5;2;2;0;0;Félévközi jegy;4;Szakirany_jarmufelepitmenyek;KOJSA191,
+Törés és károsodás;KOJSA478;4;3;0;0;0;Félévközi jegy;5;Szakirany_jarmufelepitmenyek;-
+Felépítmény hidraulika és pneumatika;KOJSA475;5;2;0;2;0;Vizsga;5;Szakirany_jarmufelepitmenyek;-
+Szendvics szerkezetek;KOJSA476;4;0;2;1;0;Félévközi jegy;5;Szakirany_jarmufelepitmenyek;-
+Felépítmények dinamikája;KOJSA479;8;4;2;1;0;Vizsga;6;Szakirany_jarmufelepitmenyek;KOJKA165$,
+Felépítmények vizsgálatai;KOJSA480;4;2;0;1;0;Vizsga;6;Szakirany_jarmufelepitmenyek;KOJKA165$,
+Vázszserkezet számítás numerikus módszerei I.;KOJSA481;5;2;2;0;0;Vizsga;6;Szakirany_jarmufelepitmenyek;KOJKA165$,
+Szilárdtest mechanika válogatott fejezetei;KOJSA482;3;2;1;0;0;Félévközi jegy;7;Szakirany_jarmufelepitmenyek;KOJSA479,
+Vázszserkezet számítás numerikus módszerei II.;KOJSA487;4;2;0;2;0;Félévközi jegy;7;Szakirany_jarmufelepitmenyek;KOJSA481,
+Jelmagyarázat:;;;;;;;;;;
+Aláírás elegendő;~;;;;;;;;;
+Ajánlott előkövetelmény;$;;;;;;;;;
+Azonos félévben felvehető;!;;;;;;;;;

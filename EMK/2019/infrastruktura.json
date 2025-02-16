@@ -1,0 +1,1518 @@
+{
+  "Subjects": [
+    {
+      "Name": "Geodézia I.",
+      "Code": "BMEEOAFAT45",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építőmérnöki kémia",
+      "Code": "BMEEOEMAT41",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építőmérnöki ábrázolás",
+      "Code": "BMEEOEMAT42",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építőmérnöki CAD",
+      "Code": "BMEEOFTAT41",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Geológia",
+      "Code": "BMEEOGMAT41",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "A statika és dinamika alapjai",
+      "Code": "BMEEOTMAT41",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 5,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A1a",
+      "Code": "BMETE90AX00",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építőmérnöki fizika",
+      "Code": "BMETE11AX13",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Geodézia II.",
+      "Code": "BMEEOAFAT42",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOAFAT41~",
+        "BMEEOAFAT45~"
+      ]
+    },
+    {
+      "Name": "Építőanyagok I.",
+      "Code": "BMEEOEMAT43",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOEMAT41"
+      ]
+    },
+    {
+      "Name": "Építőmérnöki informatika",
+      "Code": "BMEEOFTAT42",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Magasépítéstan alapjai",
+      "Code": "BMEEOEMAT44",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOEMAT42"
+      ]
+    },
+    {
+      "Name": "Elemi szilárdságtan",
+      "Code": "BMEEOTMAT42",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 5,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOTMAT41",
+        "BMETE90AX00~"
+      ]
+    },
+    {
+      "Name": "Hidraulika I.",
+      "Code": "BMEEOVVAT42",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A2a",
+      "Code": "BMETE90AX02",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMETE90AX00"
+      ]
+    },
+    {
+      "Name": "Testnevelés BSc 1/A",
+      "Code": "BMEGT70BS1A",
+      "Credit": 0,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Aláírás",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Geodézia mérőgyakorlat",
+      "Code": "BMEEOAFAT43",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOAFAT42!~"
+      ]
+    },
+    {
+      "Name": "Talajmechanika",
+      "Code": "BMEEOGMAT42",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOGMAT41",
+        "BMEEOTMAT42"
+      ]
+    },
+    {
+      "Name": "Térinformatika",
+      "Code": "BMEEOFTAT43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Tartószerkezetek méretezésének alapjai",
+      "Code": "BMEEOHSAT41",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOTMAT41"
+      ]
+    },
+    {
+      "Name": "Tartók statikája I.",
+      "Code": "BMEEOTMAT43",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOTMAT42",
+        "BMETE90AX00"
+      ]
+    },
+    {
+      "Name": "Vasúti pályák",
+      "Code": "BMEEOUVAT41",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Környezetmérnöki alapok",
+      "Code": "BMEEOVKAT41",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közművek I.",
+      "Code": "BMEEOVKAT42",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOVVAT42"
+      ]
+    },
+    {
+      "Name": "Hidrológia I.",
+      "Code": "BMEEOVVAT41",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A3 építömérnököknek",
+      "Code": "BMETE90AX07",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMETE90AX02"
+      ]
+    },
+    {
+      "Name": "Testnevelés BSc 2/A",
+      "Code": "BMEGT70BS2A",
+      "Credit": 0,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Aláírás",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Földművek",
+      "Code": "BMEEOGMAT43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOGMAT42"
+      ]
+    },
+    {
+      "Name": "Acélszerkezetek",
+      "Code": "BMEEOHSAT42",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOTMAT42",
+        "BMEEOEMAT43~",
+        "BMEEOHSAT41"
+      ]
+    },
+    {
+      "Name": "Vasbetonszerkezetek",
+      "Code": "BMEEOHSAT43",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOTMAT42",
+        "BMEEOEMAT43~",
+        "BMEEOHSAT41"
+      ]
+    },
+    {
+      "Name": "Utak",
+      "Code": "BMEEOUVAT42",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOUVAT41"
+      ]
+    },
+    {
+      "Name": "Vízépítés, vízgazdálkodás",
+      "Code": "BMEEOVVAT43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOVVAT41",
+        "BMEEOVVAT42"
+      ]
+    },
+    {
+      "Name": "Építőmérnöki kommunikációs készs.-B2",
+      "Code": "BMEGT60Z913",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Üzleti jog",
+      "Code": "BMEGT55A001",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Alapozás",
+      "Code": "BMEEOGMAT45",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOGMAT43"
+      ]
+    },
+    {
+      "Name": "Menedzsment és vállalkozásgazdaságtan",
+      "Code": "BMEGT20A001",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mikro- és makroökonómia",
+      "Code": "BMEGT30A001",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építési projektek szervezése",
+      "Code": "BMEEPEKAT41",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEEOEMAT44",
+        "BMEEOGMAT42"
+      ]
+    },
+    {
+      "Name": "Település- és régiófejlesztés",
+      "Code": "BMEEOUVAT43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 1",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi/Vizsga",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 2",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi/Vizsga",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 3",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi/Vizsga",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 4",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi/Vizsga",
+      "Semester": 8,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 5",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi/Vizsga",
+      "Semester": 8,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 6",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi/Vizsga",
+      "Semester": 8,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Infra CAD gyakorlat",
+      "Code": "BMEEOUVAI45",
+      "Credit": 1,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOUVAT41",
+        "BMEEOFTAT41"
+      ]
+    },
+    {
+      "Name": "Víz- és környezetkémia, hidrobiológia",
+      "Code": "BMEEOVKAI43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Víz- és környezeti jog",
+      "Code": "BMEEOVKAI45",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 4,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Hidraulika II.",
+      "Code": "BMEEOVVAI42",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVVAT42"
+      ]
+    },
+    {
+      "Name": "Közlekedési létesítmények pályaszerkezetei",
+      "Code": "BMEEOUVAI41",
+      "Credit": 5,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOUVAT42"
+      ]
+    },
+    {
+      "Name": "Közlekedéstervezés",
+      "Code": "BMEEOUVAI43",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOUVAT42"
+      ]
+    },
+    {
+      "Name": "Közművek II.",
+      "Code": "BMEEOVKAI41",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVKAT42"
+      ]
+    },
+    {
+      "Name": "Városi környezetvédelem",
+      "Code": "BMEEOVKAI42",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 1,
+      "Requirement": "Félévközi",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVKAT41"
+      ]
+    },
+    {
+      "Name": "Vízminőségszabályozás",
+      "Code": "BMEEOVKAI44",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVKAI43"
+      ]
+    },
+    {
+      "Name": "Hidrológia II.",
+      "Code": "BMEEOVVAI41",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVVAT41"
+      ]
+    },
+    {
+      "Name": "Közlekedési hálózatok",
+      "Code": "BMEEOUVAI42",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOUVAT42"
+      ]
+    },
+    {
+      "Name": "Út-vasút laborgyakorlat",
+      "Code": "BMEEOUVAI44",
+      "Credit": 1,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 3,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOUVAI41"
+      ]
+    },
+    {
+      "Name": "Vízkészletgazdálkodás",
+      "Code": "BMEEOVVAI43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVVAT43"
+      ]
+    },
+    {
+      "Name": "Vízmérnöki mérőgyakorlat",
+      "Code": "BMEEOVVAI44",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVVAI41",
+        "BMEEOVVAI42!~"
+      ]
+    },
+    {
+      "Name": "Infrastruktúra tervezés projektfeladat",
+      "Code": "BMEEODHAI41",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 2,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVVAT43",
+        "BMEEOUVAI43",
+        "BMEEOVKAI41"
+      ]
+    },
+    {
+      "Name": "Közigazgatástan, ingatlan nyilvántartás",
+      "Code": "BMEEOUVAT44",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedési földművek és víztelenítése",
+      "Code": "BMEEOGMAI41",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOGMAT43"
+      ]
+    },
+    {
+      "Name": "Technikusi gyakorlat",
+      "Code": "BMEEODHAI42",
+      "Credit": 0,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Aláírás",
+      "Semester": 7,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOVVAT43",
+        "BMEEOUVAI43",
+        "BMEEOVKAI41"
+      ]
+    },
+    {
+      "Name": "BIM az építőiparban",
+      "Code": "BMEEOFTAM41",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Hidak és infrastruktúra szerkezetek",
+      "Code": "BMEEOHSAS43",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOHSAT42",
+        "BMEEOHSAT43"
+      ]
+    },
+    {
+      "Name": "Földalatti műtárgyak, mélyalapozás",
+      "Code": "BMEEOGMAS42",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOGMAT45"
+      ]
+    },
+    {
+      "Name": "Kőzetmechanika",
+      "Code": "BMEEOGMAS41",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Agazat_infrastruktura",
+      "Prerequisite": [
+        "BMEEOGMAT41"
+      ]
+    },
+    {
+      "Name": "Útépítés és fenntartás",
+      "Code": "BMEEOUVA-E3",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEOUVAI41"
+      ]
+    },
+    {
+      "Name": "Vasútépítés és fenntartás",
+      "Code": "BMEEOUVA-E4",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEOUVAI41"
+      ]
+    },
+    {
+      "Name": "Úttervezés",
+      "Code": "BMEEOUVA-E1",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEOUVAI43"
+      ]
+    },
+    {
+      "Name": "Vasúttervezés",
+      "Code": "BMEEOUVA-E2",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEOUVAI43"
+      ]
+    },
+    {
+      "Name": "Települési közlekedés",
+      "Code": "BMEEOUVA-E5",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEOUVAI42",
+        "BMEEOUVAI43"
+      ]
+    },
+    {
+      "Name": "Közlekedésépítés projektfeladat",
+      "Code": "BMEEOUVA-EP",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 2,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEODHAI41",
+        "BMEEOUVAI44"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat előkészítő",
+      "Code": "BMEEODHA-ET",
+      "Credit": 9,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEOUVA-EP"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "BMEEODHA-ES",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_kozlekedesiletesitmeny",
+      "Prerequisite": [
+        "BMEEODHA-ET!"
+      ]
+    },
+    {
+      "Name": "Vízkárelhárítás, vízhasznosítás",
+      "Code": "BMEEOVVA-F1",
+      "Credit": 5,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": [
+        "BMEEOVVAT43",
+        "BMEEOVVAI41",
+        "BMEEOVVAI42"
+      ]
+    },
+    {
+      "Name": "Vízgazdálkodási projektek",
+      "Code": "BMEEOVVA-F4",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Vízgyűjtőgazdálkodás",
+      "Code": "BMEEOVVA-F2",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": [
+        "BMEEOVVAI43",
+        "BMEEOVKAI44!"
+      ]
+    },
+    {
+      "Name": "Hidroinformatika",
+      "Code": "BMEEOVVA-F3",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": [
+        "BMEEOVVAI42"
+      ]
+    },
+    {
+      "Name": "Vízépítés projektfeladat",
+      "Code": "BMEEOVVA-FP",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 2,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": [
+        "BMEEODHAI41",
+        "BMEEOVVA-F1",
+        "BMEEOVVA-F3!"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat előkészítő",
+      "Code": "BMEEODHA-FT",
+      "Credit": 9,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": [
+        "BMEEOVVA-FP"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "BMEEODHA-FS",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_vizimernoki",
+      "Prerequisite": [
+        "BMEEODHA-FT!"
+      ]
+    },
+    {
+      "Name": "Víz- és szennyvíztisztítás",
+      "Code": "BMEEOVKA-H1",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEOVKAI44"
+      ]
+    },
+    {
+      "Name": "Közműhálózatok tervezése",
+      "Code": "BMEEOVKA-H4",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEOVKAI41"
+      ]
+    },
+    {
+      "Name": "Környezeti kárelhárítás",
+      "Code": "BMEEOVKA-H2",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEOVKAI42",
+        "BMEEOVKAI44",
+        "BMEEOVVAI43"
+      ]
+    },
+    {
+      "Name": "Környezeti hatásvizsgálatok",
+      "Code": "BMEEOVKA-H3",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEOVKAI42",
+        "BMEEOVKAI44",
+        "BMEEOVKAI45"
+      ]
+    },
+    {
+      "Name": "Vízi közmű projektfeladat",
+      "Code": "BMEEOVKA-HP",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 2,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEODHAI41",
+        "BMEEOVKA-H1",
+        "BMEEOVKA-H4"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat előkészítő",
+      "Code": "BMEEODHA-HT",
+      "Credit": 9,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEOVKA-HP"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "BMEEODHA-HS",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_vizkikozmu",
+      "Prerequisite": [
+        "BMEEODHA-HT!"
+      ]
+    },
+    {
+      "Name": "Építmény-információs mod. és menedzsment",
+      "Code": "BMEEOFTA-M1",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építmény-információs rendszerek",
+      "Code": "BMEEOFTA-M2",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 4,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 6,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": [
+        "BMEEOFTA-M1!"
+      ]
+    },
+    {
+      "Name": "BIM alkalmazások és technológiák",
+      "Code": "BMEEOEMA-M3",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": [
+        "BMEEOFTAM41!"
+      ]
+    },
+    {
+      "Name": "Szakági együttműködés BIM alapokon",
+      "Code": "BMEEOTMA-M4",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": [
+        "BMEEOFTAM41!"
+      ]
+    },
+    {
+      "Name": "Építmény-információs mod. és menedzs. proj.",
+      "Code": "BMEEOEMA-MP",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": [
+        "BMEEODHAS41",
+        "BMEEODHAI41",
+        "BMEEODHAG41"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat előkészítő",
+      "Code": "BMEEODHA-MT",
+      "Credit": 9,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": [
+        "BMEEOEMA-MP"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "BMEEODHA-MS",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_epitmenyinformacio",
+      "Prerequisite": [
+        "BMEEODHA-MT!"
+      ]
+    },
+    {
+      "Name": "Geotechnika",
+      "Code": "BMEEOGMA-C1",
+      "Credit": 7,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEOGMAT45"
+      ]
+    },
+    {
+      "Name": "Betontechnológia I.",
+      "Code": "BMEEOEMA-K1",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEOEMAT43"
+      ]
+    },
+    {
+      "Name": "Mérnökgeológia",
+      "Code": "BMEEOGMA-C2",
+      "Credit": 2,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEOGMAS41"
+      ]
+    },
+    {
+      "Name": "Mélyépítési műtárgyak",
+      "Code": "BMEEOHSA-B3",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEOHSAT43",
+        "BMEEOHSAS43",
+        "BMEEOGMAS42"
+      ]
+    },
+    {
+      "Name": "Mélyépítés projektfeladat",
+      "Code": "BMEEOGMA-CP",
+      "Credit": 6,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 2,
+      "Requirement": "Félévközi",
+      "Semester": 7,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEODHAI41",
+        "BMEEOGMA-C1"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat előkészítő",
+      "Code": "BMEEODHA-CT",
+      "Credit": 9,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEOGMA-CP"
+      ]
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "BMEEODHA-CS",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi",
+      "Semester": 8,
+      "Type": "Spec_geotech",
+      "Prerequisite": [
+        "BMEEODHA-CT!"
+      ]
+    }
+  ]
+}

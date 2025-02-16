@@ -1,0 +1,81 @@
+﻿Tárgy neve;Tárgykód;Kredit;Előadás;Gyakorlat;Labor;Konzultáció;Követelmény;Félév;Típus;Előtanulmány
+Geodézia I.;BMEEOAFAT45;3;1;0;2;0;Félévközi;1;Torzs;-
+Építőmérnöki kémia;BMEEOEMAT41;2;2;0;0;0;Félévközi;1;Torzs;-
+Építőmérnöki ábrázolás;BMEEOEMAT42;4;2;2;0;0;Félévközi;1;Torzs;-
+Építőmérnöki CAD;BMEEOFTAT41;2;0;0;2;0;Félévközi;1;Torzs;-
+Geológia;BMEEOGMAT41;3;1;0;2;0;Vizsga;1;Torzs;-
+A statika és dinamika alapjai;BMEEOTMAT41;6;0;5;0;0;Vizsga;1;Torzs;-
+Matematika A1a;BMETE90AX00;6;4;2;0;0;Vizsga;1;Torzs;-
+Építőmérnöki fizika;BMETE11AX13;2;2;0;0;0;Félévközi;1;Torzs;-
+Geodézia II.;BMEEOAFAT42;4;2;0;2;0;Vizsga;2;Torzs;BMEEOAFAT41~,BMEEOAFAT45~,
+Építőanyagok I.;BMEEOEMAT43;5;2;0;2;0;Vizsga;2;Torzs;BMEEOEMAT41,
+Építőmérnöki informatika;BMEEOFTAT42;5;2;2;0;0;Félévközi;2;Torzs;-
+Magasépítéstan alapjai;BMEEOEMAT44;3;1;2;0;0;Félévközi;2;Torzs;BMEEOEMAT42,
+Elemi szilárdságtan;BMEEOTMAT42;6;0;5;0;0;Félévközi;2;Torzs;BMEEOTMAT41,BMETE90AX00~,
+Hidraulika I.;BMEEOVVAT42;3;2;1;0;0;Vizsga;2;Torzs;-
+Matematika A2a;BMETE90AX02;6;4;2;0;0;Vizsga;2;Torzs;BMETE90AX00,
+Testnevelés BSc 1/A;BMEGT70BS1A;0;0;2;0;0;Aláírás;2;Torzs;-
+Geodézia mérőgyakorlat;BMEEOAFAT43;3;0;0;0;0;Félévközi;3;Torzs;BMEEOAFAT42!~,
+Talajmechanika;BMEEOGMAT42;4;2;2;0;0;Félévközi;3;Torzs;BMEEOGMAT41,BMEEOTMAT42,
+Térinformatika;BMEEOFTAT43;3;2;0;1;0;Félévközi;3;Torzs;-
+Tartószerkezetek méretezésének alapjai;BMEEOHSAT41;3;2;0;0;0;Félévközi;3;Torzs;BMEEOTMAT41,
+Tartók statikája I.;BMEEOTMAT43;4;4;0;0;0;Vizsga;3;Torzs;BMEEOTMAT42,BMETE90AX00,
+Vasúti pályák;BMEEOUVAT41;3;3;0;0;0;Vizsga;3;Torzs;-
+Környezetmérnöki alapok;BMEEOVKAT41;3;2;0;0;0;Félévközi;3;Torzs;-
+Közművek I.;BMEEOVKAT42;3;2;1;0;0;Vizsga;3;Torzs;BMEEOVVAT42,
+Hidrológia I.;BMEEOVVAT41;3;1;1;0;0;Félévközi;3;Torzs;-
+Matematika A3 építömérnököknek;BMETE90AX07;4;2;2;0;0;Vizsga;3;Torzs;BMETE90AX02,
+Testnevelés BSc 2/A;BMEGT70BS2A;0;0;2;0;0;Aláírás;3;Torzs;-
+Földművek;BMEEOGMAT43;3;2;1;0;0;Vizsga;4;Torzs;BMEEOGMAT42,
+Acélszerkezetek;BMEEOHSAT42;3;3;0;0;0;Félévközi;4;Torzs;BMEEOTMAT42,BMEEOEMAT43~,BMEEOHSAT41,
+Vasbetonszerkezetek;BMEEOHSAT43;3;3;0;0;0;Félévközi;4;Torzs;BMEEOTMAT42,BMEEOEMAT43~,BMEEOHSAT41,
+Utak;BMEEOUVAT42;2;2;0;0;0;Félévközi;4;Torzs;BMEEOUVAT41,
+Vízépítés, vízgazdálkodás;BMEEOVVAT43;3;2;1;0;0;Vizsga;4;Torzs;BMEEOVVAT41,BMEEOVVAT42,
+Építőmérnöki kommunikációs készs.-B2;BMEGT60Z913;2;0;2;0;0;Félévközi;4;Torzs;-
+Üzleti jog;BMEGT55A001;2;2;0;0;0;Félévközi;4;Torzs;-
+Alapozás;BMEEOGMAT45;4;2;1;0;0;Vizsga;5;Torzs;BMEEOGMAT43,
+Menedzsment és vállalkozásgazdaságtan;BMEGT20A001;4;4;0;0;0;Félévközi;5;Torzs;-
+Mikro- és makroökonómia;BMEGT30A001;4;4;0;0;0;Vizsga;6;Torzs;-
+Építési projektek szervezése;BMEEPEKAT41;3;2;1;0;0;Félévközi;6;Torzs;BMEEOEMAT44,BMEEOGMAT42,
+Település- és régiófejlesztés;BMEEOUVAT43;3;2;0;0;0;Félévközi;7;Torzs;-
+Szabadon választható 1;-;2;2;0;0;0;Félévközi/Vizsga;7;Torzs;-
+Szabadon választható 2;-;2;2;0;0;0;Félévközi/Vizsga;7;Torzs;-
+Szabadon választható 3;-;2;2;0;0;0;Félévközi/Vizsga;7;Torzs;-
+Szabadon választható 4;-;2;2;0;0;0;Félévközi/Vizsga;8;Torzs;-
+Szabadon választható 5;-;2;2;0;0;0;Félévközi/Vizsga;8;Torzs;-
+Szabadon választható 6;-;2;2;0;0;0;Félévközi/Vizsga;8;Torzs;-
+Ingatlan-nyilvántartás és -értékbecslés;BMEEOAFAT44;3;3;0;0;0;Félévközi;4;Agazat_geoinformatika;-
+Geofizikai alapismeretek;BMEEOAFAG42;3;2;0;0;0;Vizsga;4;Agazat_geoinformatika;BMETE90AX02,
+Kiegyenlítő számítások;BMEEOFTAG42;4;1;0;2;0;Vizsga;4;Agazat_geoinformatika;BMEEOAFAT42,BMETE90AX02,
+Nagyméretarányú térképezés;BMEEOAFAG41;4;1;2;0;0;Félévközi;5;Agazat_geoinformatika;BMEEOAFAT44,
+Geodéziai alaphálózatok;BMEEOAFAG43;4;3;1;0;0;Félévközi;5;Agazat_geoinformatika;BMEEOFTAG42,
+Műholdas helymeghatározás;BMEEOAFAG45;3;2;0;0;0;Vizsga;5;Agazat_geoinformatika;-
+Mérnökgeodézia;BMEEOAFAG46;5;2;2;0;0;Vizsga;5;Agazat_geoinformatika;BMEEOFTAG42,
+Térinformatikai modellezés;BMEEOFTAG41;3;2;1;0;0;Félévközi;5;Agazat_geoinformatika;BMEEOFTAT43,
+Fotogrammetria és lézerszkennelés;BMEEOFTAG43;4;2;0;2;0;Vizsga;5;Agazat_geoinformatika;-
+Felsőgeodézia;BMEEOAFAG44;4;3;1;0;0;Vizsga;6;Agazat_geoinformatika;BMEEOAFAG42,BMEEOAFAG43,
+Alaphálózatok mérőgyakorlat;BMEEOAFAG47;2;0;0;0;0;Félévközi;6;Agazat_geoinformatika;BMEEOAFAG43,
+Távérzékelés;BMEEOFTAG44;4;2;0;2;0;Félévközi;6;Agazat_geoinformatika;BMEEOFTAG43,
+Térinformatika mérőgyakorlat;BMEEOFTAG46;2;0;0;0;0;Félévközi;6;Agazat_geoinformatika;BMEEOFTAG41,
+Geodézia és térinformatika projektfeladat;BMEEODHAG41;6;0;0;0;2;Félévközi;6;Agazat_geoinformatika;BMEEOAFAG46,BMEEOAFAG41,BMEEOFTAG43,
+Topográfia;BMEEOFTAG45;3;2;0;1;0;Vizsga;7;Agazat_geoinformatika;BMEEOFTAT43,
+Technikusi gyakorlat;BMEEODHAG42;0;0;0;0;0;Aláírás;7;Agazat_geoinformatika;BMEEOAFAG46,BMEEOAFAG41,BMEEOFTAG43,
+BIM az építőiparban;BMEEOFTAM41;3;2;0;0;0;Félévközi;5;Agazat_geoinformatika;-
+Mérnöki létesítmények geodéziája;BMEEOAFA-L1;4;2;2;0;0;Vizsga;6;Spec_geodezia;BMEEOAFAG46,
+Geoinformatikai programozás;BMEEOFTA-L2;3;0;2;0;0;Félévközi;6;Spec_geodezia;BMEEOFTAT42,
+Minőségbiztosítás a geodéziában;BMEEOAFA-L3;4;1;2;0;0;Vizsga;7;Spec_geodezia;BMEEODHAG41,
+Térinformatikai adattárolás;BMEEOFTA-L4;4;2;1;0;0;Félévközi;7;Spec_geodezia;BMEEOFTAG41,
+Geoinformatika projektfeladat;BMEEOAFA-LP;6;0;0;0;2;Félévközi;7;Spec_geodezia;BMEEODHAG41,
+Szakdolgozat előkészítő;BMEEODHA-LT;9;0;0;0;0;Félévközi;8;Spec_geodezia;BMEEOAFA-LP,
+Szakdolgozat;BMEEODHA-LS;15;0;0;0;0;Félévközi;8;Spec_geodezia;BMEEODHA-LT!,
+Építmény-információs mod. és menedzsment;BMEEOFTA-M1;3;2;0;0;0;Félévközi;6;Spec_epitmenyinformacio;-
+Építmény-információs rendszerek;BMEEOFTA-M2;6;0;0;4;0;Félévközi;6;Spec_epitmenyinformacio;BMEEOFTA-M1!,
+BIM alkalmazások és technológiák;BMEEOEMA-M3;3;2;0;0;0;Vizsga;7;Spec_epitmenyinformacio;BMEEOFTAM41!,
+Szakági együttműködés BIM alapokon;BMEEOTMA-M4;3;0;0;2;0;Félévközi;7;Spec_epitmenyinformacio;BMEEOFTAM41!,
+Építmény-információs mod. és menedzs. proj.;BMEEOEMA-MP;6;0;0;0;0;Félévközi;7;Spec_epitmenyinformacio;BMEEODHAS41,BMEEODHAI41,BMEEODHAG41,
+Szakdolgozat előkészítő;BMEEODHA-MT;9;0;0;0;0;Félévközi;8;Spec_epitmenyinformacio;BMEEOEMA-MP,
+Szakdolgozat;BMEEODHA-MS;15;0;0;0;0;Félévközi;8;Spec_epitmenyinformacio;BMEEODHA-MT!,
+Jelmagyarázat:;;;;;;;;;;
+Aláírás elegendő;~;;;;;;;;;
+Ajánlott előkövetelmény;$;;;;;;;;;
+Azonos félévben felvehető;!;;;;;;;;;
