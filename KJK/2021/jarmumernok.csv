@@ -3,7 +3,7 @@ Matematika A1a;TE90AX00;6;4;2;0;0;Vizsga;1;Torzs;-
 Fizika K;TE15AX17;3;2;0;0;0;Vizsga;1;Torzs;-
 Műszaki kémia;VEKTAKO1;3;2;0;1;0;Vizsga;1;Torzs;-
 JKL rendszerek;KOVRA189;3;4;0;0;0;Félévközi jegy;1;Torzs;-
-Mérnöki alapismeretek;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
+Mérnöki alapismeretek / Mérnöki alapok;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
 Programozás;KOKAA146;7;2;0;4;0;Félévközi jegy;1;Torzs;-
 Műszaki ábrázolás 1.;KOJSA498;6;2;3;0;0;Félévközi jegy;1;Torzs;-
 Matematika A2a;TE90AX02;6;4;2;0;0;Vizsga;2;Torzs;TE90AX00,
@@ -30,7 +30,7 @@ Jármű vázszerkezetek;KOJKA165;3;2;1;0;0;Félévközi jegy;5;Torzs;-
 Jármű- és hajtáselemek 3.;KOJSA495;3;0;2;0;0;Vizsga;5;Torzs;KOJSA499,KOJSA494~,
 Járművek hő- és áramlástech. berendezései 1.;KOVRA496;4;1;1;1;0;Vizsga;5;Torzs;KOVRA195,KOVRA190$,TE90AX53$,
 Logikai hálózatok;KOKAA137;3;2;1;0;0;Félévközi jegy;5;Torzs;KOKAA139~,KOKAA146$,
-Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;5;Torzs;KOKAA146,KOKAA139~,TE90AX53$,
+Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;5;Torzs;KOKAA139~,TE90AX53$,
 Szabadon választható 3;-;2;2;0;0;0;Félévközi jegy;5;Torzs;-
 Járművek hő- és áramlástech. berendezései 2.;KOVRA497;4;1;1;1;0;Vizsga;6;Torzs;KOVRA195,KOVRA190$,TE90AX53$,
 Mikro- és makroökonómia;GT30A400;4;3;0;0;0;Félévközi jegy;6;Torzs;-

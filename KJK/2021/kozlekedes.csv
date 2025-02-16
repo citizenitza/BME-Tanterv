@@ -3,7 +3,7 @@ Matematika A1a;TE90AX00;6;4;2;0;0;Vizsga;1;Torzs;-
 Fizika K;TE15AX17;3;2;0;0;0;Vizsga;1;Torzs;-
 Műszaki kémia;VEKTAKO1;3;2;0;1;0;Vizsga;1;Torzs;-
 JKL rendszerek;KOVRA189;3;4;0;0;0;Félévközi jegy;1;Torzs;-
-Mérnöki alapismeretek;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
+Mérnöki alapismeretek / Mérnöki alapok;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
 Programozás;KOKAA146;7;2;0;4;0;Félévközi jegy;1;Torzs;-
 Közlekedésföldrajz;KOKKA184;4;2;1;0;0;Félévközi jegy;1;Torzs;-
 Matematika A2a;TE90AX02;6;4;2;0;0;Vizsga;2;Torzs;TE90AX00,
@@ -28,7 +28,7 @@ Járműdinamika;KOVJA177;2;1;1;0;0;Félévközi jegy;4;Torzs;KOVRA190,KOVRA189,T
 Közlekedési automatika A;KOKAA179;4;2;1;0;0;Vizsga;4;Torzs;KOKAA139,
 Üzleti jog;GT55A001;2;2;0;0;0;Félévközi jegy;4;Torzs;-
 Üzemszervezés;KOKUA180;6;2;2;0;0;Vizsga;5;Torzs;-
-Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;5;Torzs;KOKAA146,KOKAA139~,TE90AX53$,
+Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;5;Torzs;KOKAA139~,TE90AX53$,
 Közlekedés-gazdaságtan A;KOKKA262;5;2;2;0;0;Félévközi jegy;5;Torzs;KOKKA186,
 Menedzser tréning a közlekedésben;KOKKA199;2;2;0;0;0;Félévközi jegy;5;Torzs;-
 Közlekedésbiztonság;KOKKA183;3;2;1;0;0;Félévközi jegy;6;Torzs;KOKKA238,KOKKA262$,
@@ -49,7 +49,7 @@ Gépjármű üzemtan;KOKKA268;2;1;1;0;0;Félévközi jegy;5;Szakirany_Kozuti;KOK
 Forgalomtechnika;KOKUA209;4;2;0;2;0;Vizsga;5;Szakirany_Kozuti;KOVRA189$,KOKKA185,
 Közlekedési információs rendszerek II.;KOKKA252;5;2;0;2;0;Vizsga;5;Szakirany_Kozuti;KOKKA240,
 Közúti menedzsment;KOKKA260;4;2;1;0;0;Félévközi jegy;6;Szakirany_Kozuti;KOKKA262,
-Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Kozuti;KOKKA185,
+Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Kozuti;-
 Közúti forgalomirányítás II.;KOKAA266;4;2;1;0;0;Vizsga;6;Szakirany_Kozuti;KOKAA265,
 Közúti informatika;KOKUA212;3;1;0;2;0;Vizsga;6;Szakirany_Kozuti;-
 Közlekedési hálózattervezés;KOKKA271;5;2;2;0;0;Vizsga;6;Szakirany_Kozuti;KOVRA189$,
@@ -59,7 +59,7 @@ Vasúti automatika I.;KOKAA276;3;2;1;0;0;Félévközi jegy;5;Szakirany_Vasuti;-
 Vasúti üzemtan;KOKKA267;6;3;1;2;0;Vizsga;5;Szakirany_Vasuti;KOKKA185,
 Közlekedési információs rendszerek II.;KOKKA252;5;2;0;2;0;Vizsga;5;Szakirany_Vasuti;KOKKA240,
 Vasúti menedzsment;KOKKA269;4;2;1;0;0;Félévközi jegy;6;Szakirany_Vasuti;-
-Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Vasuti;KOKKA185,
+Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Vasuti;-
 Vasúti automatika II.;KOKAA273;4;2;1;0;0;Vizsga;6;Szakirany_Vasuti;KOKAA276,
 Vasúti informatika;KOKUA220;3;1;0;2;0;Vizsga;6;Szakirany_Vasuti;-
 Közlekedési hálózattervezés;KOKKA271;5;2;2;0;0;Vizsga;6;Szakirany_Vasuti;KOVRA189$,
@@ -69,7 +69,7 @@ Légiközl. irányító és komm. rendszerek I.;KOKAA222;3;2;1;0;0;Félévközi 
 Repülés üzemeltetés;KOVRA274;6;3;1;2;0;Vizsga;5;Szakirany_Legi;KOKKA185$,
 Közlekedési információs rendszerek II.;KOKKA252;5;2;0;2;0;Vizsga;5;Szakirany_Legi;KOKKA240,
 Légiközlekedési menedzsment;KOKKA257;4;2;1;0;0;Félévközi jegy;6;Szakirany_Legi;-
-Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Legi;KOKKA185,
+Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Legi;-
 Légiközl. irányító és komm. rendszerek II;KOKAA253;4;2;1;0;0;Vizsga;6;Szakirany_Legi;KOKAA222,
 Légi  informatika;KOKUA228;3;1;0;2;0;Vizsga;6;Szakirany_Legi;-
 Közlekedési hálózattervezés;KOKKA271;5;2;2;0;0;Vizsga;6;Szakirany_Legi;KOVRA189$,
@@ -79,7 +79,7 @@ Víziközl. irányító és komm. rendszerek I.;KOKAA230;3;2;1;0;0;Félévközi 
 Hajózási üzemtan;KOVRA263;6;3;1;2;0;Vizsga;5;Szakirany_Vizi;KOKKA185$,
 Közlekedési információs rendszerek II.;KOKKA252;5;2;0;2;0;Vizsga;5;Szakirany_Vizi;KOKKA240,
 Hajózási menedzsment;KOKKA264;4;2;1;0;0;Félévközi jegy;6;Szakirany_Vizi;-
-Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Vizi;KOKKA185,
+Integrált áruszállítási rendszerek;KOKKA275;5;3;1;0;0;Félévközi jegy;6;Szakirany_Vizi;-
 Víziközl. irányító és komm. rendszerek II.;KOKAA261;4;2;1;0;0;Vizsga;6;Szakirany_Vizi;,
 Hajózási informatika;KOKUA236;3;1;0;2;0;Vizsga;6;Szakirany_Vizi;-
 Közlekedési hálózattervezés;KOKKA271;5;2;2;0;0;Vizsga;6;Szakirany_Vizi;KOVRA189$,

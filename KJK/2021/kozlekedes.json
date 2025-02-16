@@ -53,7 +53,7 @@
       "Prerequisite": []
     },
     {
-      "Name": "Mérnöki alapismeretek",
+      "Name": "Mérnöki alapismeretek / Mérnöki alapok",
       "Code": "KOVRA190",
       "Credit": 4,
       "Lecture": 2,
@@ -426,7 +426,6 @@
       "Semester": 5,
       "Type": "Torzs",
       "Prerequisite": [
-        "KOKAA146",
         "KOKAA139~",
         "TE90AX53$"
       ]
@@ -718,9 +717,7 @@
       "Requirement": "Félévközi jegy",
       "Semester": 6,
       "Type": "Szakirany_Kozuti",
-      "Prerequisite": [
-        "KOKKA185"
-      ]
+      "Prerequisite": []
     },
     {
       "Name": "Közúti forgalomirányítás II.",
@@ -862,9 +859,7 @@
       "Requirement": "Félévközi jegy",
       "Semester": 6,
       "Type": "Szakirany_Vasuti",
-      "Prerequisite": [
-        "KOKKA185"
-      ]
+      "Prerequisite": []
     },
     {
       "Name": "Vasúti automatika II.",
@@ -1006,9 +1001,7 @@
       "Requirement": "Félévközi jegy",
       "Semester": 6,
       "Type": "Szakirany_Legi",
-      "Prerequisite": [
-        "KOKKA185"
-      ]
+      "Prerequisite": []
     },
     {
       "Name": "Légiközl. irányító és komm. rendszerek II",
@@ -1150,9 +1143,7 @@
       "Requirement": "Félévközi jegy",
       "Semester": 6,
       "Type": "Szakirany_Vizi",
-      "Prerequisite": [
-        "KOKKA185"
-      ]
+      "Prerequisite": []
     },
     {
       "Name": "Víziközl. irányító és komm. rendszerek II.",

@@ -3,7 +3,7 @@ Matematika A1a;TE90AX00;6;4;2;0;0;Vizsga;1;Torzs;-
 Fizika K;TE15AX17;3;2;0;0;0;Vizsga;1;Torzs;-
 Műszaki kémia;VEKTAKO1;3;2;0;1;0;Vizsga;1;Torzs;-
 JKL rendszerek;KOVRA189;3;4;0;0;0;Félévközi jegy;1;Torzs;-
-Mérnöki alapismeretek;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
+Mérnöki alapismeretek / Mérnöki alapok;KOVRA190;4;2;0;1;0;Vizsga;1;Torzs;-
 Programozás;KOKAA146;7;2;0;4;0;Félévközi jegy;1;Torzs;-
 Közlekedésföldrajz;KOKKA184;4;2;1;0;0;Félévközi jegy;1;Torzs;-
 Matematika A2a;TE90AX02;6;4;2;0;0;Vizsga;2;Torzs;TE90AX00,
@@ -20,7 +20,7 @@ Számítógépes ábrázolás alapjai;KOJSA188;3;0;0;3;0;Félévközi jegy;3;Tor
 Logisztikai adatbázis rendszerek;KOALA340;5;2;0;2;0;Vizsga;3;Torzs;KOKAA146,
 Csomagolástechnika;KOKUA620;3;1;1;0;0;Félévközi jegy;3;Torzs;-
 Menedzsment és vállalkozás gazdaságtan;KOKGA109;4;3;0;0;0;Félévközi jegy;3;Torzs;-
-Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;4;Torzs;KOKAA146,KOKAA139~,TE90AX53$,
+Irányítástechnika;KOKAA138;3;2;1;0;0;Vizsga;4;Torzs;KOKAA139~,TE90AX53$,
 Logisztikai információs rendszerek;KOALA333;5;2;0;2;0;Vizsga;4;Torzs;KOALA340,
 Logisztikai identifikációs rendszerek ;KOALA330;5;2;0;2;0;Félévközi jegy;4;Torzs;KOKAA139~,
 Szállítási logisztika;KOALA332;5;3;1;1;0;Vizsga;4;Torzs;KOKKA184,KOKUA620,
@@ -45,7 +45,7 @@ Anyagmozgatási és raktározási folyamatok;KOALA338;5;2;1;1;0;Vizsga;6;Torzs;K
 Logisztikai rendszerek automatizálása;KOALA341;5;2;0;2;0;Vizsga;6;Torzs;KOKAA139,
 Logisztikai projektirányítás;KOALA328;5;1;4;0;0;Félévközi jegy;6;Torzs;KOALA327,KOALA332,KOALA335,
 Szabadon választható 4;-;2;2;0;0;0;Félévközi jegy;7;Torzs;-
-Szabadon választható 5;-5;2;2;0;0;0;Félévközi jegy;7;Torzs;-
+Szabadon választható 5;-;2;2;0;0;0;Félévközi jegy;7;Torzs;-
 Logisztikai projektek;KOALA329;11;0;11;0;0;Félévközi jegy;7;Torzs;KOALA328,KOALA341,KOALA338,
 Szakdolgozat;-;15;0;8;0;0;Vizsga;7;Torzs;-
 Jelmagyarázat:;;;;;;;;;;
