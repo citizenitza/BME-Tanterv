@@ -1,0 +1,1201 @@
+{
+  "Subjects": [
+    {
+      "Name": "Matematika A1a",
+      "Code": "TE90AX00",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Fizika K",
+      "Code": "TE15AX17",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Műszaki kémia",
+      "Code": "VEKTAKO1",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "JKL rendszerek",
+      "Code": "KOVRA189",
+      "Credit": 3,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mérnöki alapismeretek",
+      "Code": "KOVRA190",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Programozás",
+      "Code": "KOKAA146",
+      "Credit": 7,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 4,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedésföldrajz",
+      "Code": "KOKKA184",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A2a",
+      "Code": "TE90AX02",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE90AX00"
+      ]
+    },
+    {
+      "Name": "Anyagismeret",
+      "Code": "KOJJA106",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "VEKTAKO1$"
+      ]
+    },
+    {
+      "Name": "Mechanika 1",
+      "Code": "KOJSA191",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA190$"
+      ]
+    },
+    {
+      "Name": "Elektrotechnika - Elektronika",
+      "Code": "KOKAA139",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE15AX17"
+      ]
+    },
+    {
+      "Name": "Műszaki ábrázolás alapjai",
+      "Code": "KOJSA187",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mikro- és makroökonómia",
+      "Code": "GT30A400",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A3k",
+      "Code": "TE90AX53",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE90AX02"
+      ]
+    },
+    {
+      "Name": "Mechanika 2",
+      "Code": "EOTMAK02",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA191",
+        "TE90AX00"
+      ]
+    },
+    {
+      "Name": "Hő- és áramlástan 1.",
+      "Code": "KOVRA194",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA190$",
+        "TE90AX02$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Logikai hálózatok",
+      "Code": "KOKAA137",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKAA139~",
+        "KOKAA146$"
+      ]
+    },
+    {
+      "Name": "Anyagtechnológia, járműfenntartás",
+      "Code": "KOGJA254",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJJA106"
+      ]
+    },
+    {
+      "Name": "Számítógépes ábrázolás alapjai",
+      "Code": "KOJSA188",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 0,
+      "Lab": 3,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA187"
+      ]
+    },
+    {
+      "Name": "Közlekedési pályák",
+      "Code": "KOKKA238",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Menedzsment és vállalkozás gazdaságtan",
+      "Code": "KOKGA109",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 1",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Számítógépes műszaki alkalmazás",
+      "Code": "KOKAA270",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKAA146"
+      ]
+    },
+    {
+      "Name": "Közlekedésstatisztika",
+      "Code": "KOKKA186",
+      "Credit": 5,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Közlekedési technológia",
+      "Code": "KOKKA185",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA189$"
+      ]
+    },
+    {
+      "Name": "Járműdinamika",
+      "Code": "KOVJA177",
+      "Credit": 2,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA190",
+        "KOVRA189",
+        "TE90AX53$",
+        "KOJSA191$"
+      ]
+    },
+    {
+      "Name": "Közlekedési automatika A",
+      "Code": "KOKAA179",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKAA139"
+      ]
+    },
+    {
+      "Name": "Üzleti jog",
+      "Code": "GT55A001",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Üzemszervezés",
+      "Code": "KOKUA180",
+      "Credit": 6,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Irányítástechnika",
+      "Code": "KOKAA138",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKAA146",
+        "KOKAA139~",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Közlekedés-gazdaságtan A",
+      "Code": "KOKKA262",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKKA186"
+      ]
+    },
+    {
+      "Name": "Menedzser tréning a közlekedésben",
+      "Code": "KOKKA199",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedésbiztonság",
+      "Code": "KOKKA183",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKKA238",
+        "KOKKA262$"
+      ]
+    },
+    {
+      "Name": "Minőségügy",
+      "Code": "KOGJA148",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Köt. Vál. GH (BSc)",
+      "Code": "GTK01",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 2",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Kommunikációs rendszerek",
+      "Code": "KOKAA272",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Munkavédelem",
+      "Code": "KOEAA111",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Köt. Vál. GH (BSc)",
+      "Code": "GTK02",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 3",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 4",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 5",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "-",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 8,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közúti pályák",
+      "Code": "KOEAA213",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOKKA238"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek I.",
+      "Code": "KOKKA240",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közúti forgalomirányítás I.",
+      "Code": "KOKAA265",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Gépjármű üzemtan",
+      "Code": "KOKKA268",
+      "Credit": 2,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Forgalomtechnika",
+      "Code": "KOKUA209",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOVRA189$",
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek II.",
+      "Code": "KOKKA252",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOKKA240"
+      ]
+    },
+    {
+      "Name": "Közúti menedzsment",
+      "Code": "KOKKA260",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOKKA262"
+      ]
+    },
+    {
+      "Name": "Integrált áruszállítási rendszerek",
+      "Code": "KOKKA275",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Közúti forgalomirányítás II.",
+      "Code": "KOKAA266",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOKAA265"
+      ]
+    },
+    {
+      "Name": "Közúti informatika",
+      "Code": "KOKUA212",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedési hálózattervezés",
+      "Code": "KOKKA271",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Kozuti",
+      "Prerequisite": [
+        "KOVRA189$"
+      ]
+    },
+    {
+      "Name": "Vasúti pályák",
+      "Code": "KOEAA221",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        "KOKKA238"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek I.",
+      "Code": "KOKKA240",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        ""
+      ]
+    },
+    {
+      "Name": "Vasúti automatika I.",
+      "Code": "KOKAA276",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Vasúti üzemtan",
+      "Code": "KOKKA267",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek II.",
+      "Code": "KOKKA252",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        "KOKKA240"
+      ]
+    },
+    {
+      "Name": "Vasúti menedzsment",
+      "Code": "KOKKA269",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Integrált áruszállítási rendszerek",
+      "Code": "KOKKA275",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Vasúti automatika II.",
+      "Code": "KOKAA273",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        "KOKAA276"
+      ]
+    },
+    {
+      "Name": "Vasúti informatika",
+      "Code": "KOKUA220",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedési hálózattervezés",
+      "Code": "KOKKA271",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Vasuti",
+      "Prerequisite": [
+        "KOVRA189$"
+      ]
+    },
+    {
+      "Name": "Légterek, repülőterek",
+      "Code": "KOKUA229",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        "KOKKA238"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek I.",
+      "Code": "KOKKA240",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        ""
+      ]
+    },
+    {
+      "Name": "Légiközl. irányító és komm. rendszerek I.",
+      "Code": "KOKAA222",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Repülés üzemeltetés",
+      "Code": "KOVRA274",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        "KOKKA185$"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek II.",
+      "Code": "KOKKA252",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        "KOKKA240"
+      ]
+    },
+    {
+      "Name": "Légiközlekedési menedzsment",
+      "Code": "KOKKA257",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Integrált áruszállítási rendszerek",
+      "Code": "KOKKA275",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Légiközl. irányító és komm. rendszerek II",
+      "Code": "KOKAA253",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        "KOKAA222"
+      ]
+    },
+    {
+      "Name": "Légi  informatika",
+      "Code": "KOKUA228",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedési hálózattervezés",
+      "Code": "KOKKA271",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Legi",
+      "Prerequisite": [
+        "KOVRA189$"
+      ]
+    },
+    {
+      "Name": "Vízi utak és műtárgyak",
+      "Code": "KORHA237",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        "KOKKA238"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek I.",
+      "Code": "KOKKA240",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        ""
+      ]
+    },
+    {
+      "Name": "Víziközl. irányító és komm. rendszerek I.",
+      "Code": "KOKAA230",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Hajózási üzemtan",
+      "Code": "KOVRA263",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        "KOKKA185$"
+      ]
+    },
+    {
+      "Name": "Közlekedési információs rendszerek II.",
+      "Code": "KOKKA252",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        "KOKKA240"
+      ]
+    },
+    {
+      "Name": "Hajózási menedzsment",
+      "Code": "KOKKA264",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Integrált áruszállítási rendszerek",
+      "Code": "KOKKA275",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        "KOKKA185"
+      ]
+    },
+    {
+      "Name": "Víziközl. irányító és komm. rendszerek II.",
+      "Code": "KOKAA261",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        ""
+      ]
+    },
+    {
+      "Name": "Hajózási informatika",
+      "Code": "KOKUA236",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Közlekedési hálózattervezés",
+      "Code": "KOKKA271",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_Vizi",
+      "Prerequisite": [
+        "KOVRA189$"
+      ]
+    }
+  ]
+}

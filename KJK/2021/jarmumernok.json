@@ -1,0 +1,2116 @@
+{
+  "Subjects": [
+    {
+      "Name": "Matematika A1a",
+      "Code": "TE90AX00",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Fizika K",
+      "Code": "TE15AX17",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Műszaki kémia",
+      "Code": "VEKTAKO1",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "JKL rendszerek",
+      "Code": "KOVRA189",
+      "Credit": 3,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mérnöki alapismeretek",
+      "Code": "KOVRA190",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Programozás",
+      "Code": "KOKAA146",
+      "Credit": 7,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 4,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Műszaki ábrázolás 1.",
+      "Code": "KOJSA498",
+      "Credit": 6,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A2a",
+      "Code": "TE90AX02",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE90AX00"
+      ]
+    },
+    {
+      "Name": "Anyagismeret",
+      "Code": "KOJJA106",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "VEKTAKO1$"
+      ]
+    },
+    {
+      "Name": "Mechanika 1",
+      "Code": "KOJSA191",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA190$"
+      ]
+    },
+    {
+      "Name": "Elektrotechnika - Elektronika",
+      "Code": "KOKAA139",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE15AX17"
+      ]
+    },
+    {
+      "Name": "Műszaki ábrázolás 2.",
+      "Code": "KOJSA499",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA498"
+      ]
+    },
+    {
+      "Name": "Szabadon választható 1",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Matematika A3k",
+      "Code": "TE90AX53",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE90AX02"
+      ]
+    },
+    {
+      "Name": "Mechanika 2",
+      "Code": "EOTMAK02",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA191",
+        "TE90AX00"
+      ]
+    },
+    {
+      "Name": "Szerkezetek statikája",
+      "Code": "KOJSA192",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Hő- és áramlástan 1.",
+      "Code": "KOVRA194",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA190$",
+        "TE90AX02$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Jármű- és hajtáselemek 1.",
+      "Code": "KOJSA493",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA499"
+      ]
+    },
+    {
+      "Name": "Mérnöki számítások",
+      "Code": "KOVRA431",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "TE90AX00",
+        "TE90AX02$"
+      ]
+    },
+    {
+      "Name": "Járműszerkezeti anyaggok és technológiák",
+      "Code": "KOGJA450",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJJA106"
+      ]
+    },
+    {
+      "Name": "Szabadon választható 2",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Hő- és áramlástan 2.",
+      "Code": "KOVRA195",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA194",
+        "KOVRA190$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Járműmérnöki mechanika ",
+      "Code": "KOJSA595",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Járműmérnöki matematika",
+      "Code": "KOVRA594",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA431",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Jármű- és hajtáselemek 2.",
+      "Code": "KOJSA494",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA499"
+      ]
+    },
+    {
+      "Name": "Járműgyártás és javítás",
+      "Code": "KOJJA162",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOGJA450"
+      ]
+    },
+    {
+      "Name": "Minőségügy a járműtechnikában",
+      "Code": "KOGJA154",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Jármű vázszerkezetek",
+      "Code": "KOJKA165",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Jármű- és hajtáselemek 3.",
+      "Code": "KOJSA495",
+      "Credit": 3,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOJSA499",
+        "KOJSA494~"
+      ]
+    },
+    {
+      "Name": "Járművek hő- és áramlástech. berendezései 1.",
+      "Code": "KOVRA496",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA195",
+        "KOVRA190$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Logikai hálózatok",
+      "Code": "KOKAA137",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKAA139~",
+        "KOKAA146$"
+      ]
+    },
+    {
+      "Name": "Irányítástechnika",
+      "Code": "KOKAA138",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOKAA146",
+        "KOKAA139~",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Szabadon választható 3",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járművek hő- és áramlástech. berendezései 2.",
+      "Code": "KOVRA497",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "KOVRA195",
+        "KOVRA190$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Mikro- és makroökonómia",
+      "Code": "GT30A400",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Üzleti jog",
+      "Code": "GT55A001",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 4",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szabadon választható 5",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Menedzsment és vállalkozás gazdaságtan",
+      "Code": "KOKGA109",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Munkavédelem",
+      "Code": "KOEAA111",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Üzemszervezés",
+      "Code": "KOKUA169",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szakdolgozat",
+      "Code": "-",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 8,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Gépjárművek erőátvitele I.",
+      "Code": "KOGJA511",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Gépjármű futóművek I.",
+      "Code": "KOGJA513",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Gépjárművek erőátvitele II.",
+      "Code": "KOGJA512",
+      "Credit": 4,
+      "Lecture": 0,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Gépjármű futóművek II.",
+      "Code": "KOGJA514",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOGJA513"
+      ]
+    },
+    {
+      "Name": "Gépjármű motorok I.",
+      "Code": "KOGJA515",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOVRA496!"
+      ]
+    },
+    {
+      "Name": "Gépjármű motorok II.",
+      "Code": "KOGJA516",
+      "Credit": 8,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOGJA515"
+      ]
+    },
+    {
+      "Name": "Gépjárművek üzeme I.",
+      "Code": "KOGJA517",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOGJA513$",
+        "KOGJA514$"
+      ]
+    },
+    {
+      "Name": "Gépjármű elektronika I.",
+      "Code": "KOGJA519",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOKAA138"
+      ]
+    },
+    {
+      "Name": "Gépjárművek üzeme II.",
+      "Code": "KOGJA518",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOGJA517"
+      ]
+    },
+    {
+      "Name": "Gépjármű elektronika II.",
+      "Code": "KOGJA520",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_gepjarmuvek",
+      "Prerequisite": [
+        "KOGJA519"
+      ]
+    },
+    {
+      "Name": "Aerodinamika",
+      "Code": "KORHA545",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KOVRA194"
+      ]
+    },
+    {
+      "Name": "Fenntartható repülés",
+      "Code": "KORHA546 ",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Repülésmechanika",
+      "Code": "KORHA548",
+      "Credit": 4,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA545$"
+      ]
+    },
+    {
+      "Name": "Repülőgépek szerkezete",
+      "Code": "KORHA553",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA545",
+        "KOGJA450",
+        "KOJSA493"
+      ]
+    },
+    {
+      "Name": "Repülőgépek karbantartása és dokumentációi",
+      "Code": "KORHA557",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA555$"
+      ]
+    },
+    {
+      "Name": "Repülőgépek rendszerei és avionika",
+      "Code": "KORHA550",
+      "Credit": 8,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA548",
+        "KORHA553"
+      ]
+    },
+    {
+      "Name": "Repülőgép hajtóművek",
+      "Code": "KORHA556",
+      "Credit": 6,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KOVRA194"
+      ]
+    },
+    {
+      "Name": "Környezetvédelem és repülésbiztonság",
+      "Code": "KORHA547",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA548"
+      ]
+    },
+    {
+      "Name": "Repülőgép hajtóművek szerkezete",
+      "Code": "KORHA549",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA556",
+        "KOVRA496$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Repülőgépek tervezési lépései és gyártása",
+      "Code": "KORHA558",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_legijarmuvek2024",
+      "Prerequisite": [
+        "KORHA553"
+      ]
+    },
+    {
+      "Name": "Aerodinamika",
+      "Code": "KOVRA454",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KOVRA194"
+      ]
+    },
+    {
+      "Name": "Repülőgép hajtóművek elmélete I.",
+      "Code": "KOVRA451",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KOVRA194",
+        "KOVRA190$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Repülőgép hajtóművek elmélete II.",
+      "Code": "KORHA522",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KOVRA451",
+        "KOVRA195$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Repülőgépek szerkezete",
+      "Code": "KORHA526",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KOVRA454",
+        "KOGJA450",
+        "KOJSA493"
+      ]
+    },
+    {
+      "Name": "Repülésmechanika",
+      "Code": "KORHA525",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KOVRA454$"
+      ]
+    },
+    {
+      "Name": "Fenntartható repülés",
+      "Code": "KOVRA458",
+      "Credit": 8,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Repülőgép hajtóművek szerkezete",
+      "Code": "KOVRA453",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KORHA522",
+        "KOVRA496$",
+        "TE90AX53$"
+      ]
+    },
+    {
+      "Name": "Repülőgépek rendszerei és avionika",
+      "Code": "KOVRA457",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KORHA525",
+        "KORHA526"
+      ]
+    },
+    {
+      "Name": "Környezetvédelem, repülésbiztonság és légialkalmasság",
+      "Code": "KOVRA462",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KORHA525",
+        "KORHA522"
+      ]
+    },
+    {
+      "Name": "Légi eszközök",
+      "Code": "KOVRA461",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_legijarmuvek",
+      "Prerequisite": [
+        "KORHA522",
+        "KOVRA496$",
+        "KOVRA497$"
+      ]
+    },
+    {
+      "Name": "Jármű hidraulika és pneumatika",
+      "Code": "KOEAA545",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járműfedélzeti rendszerek I.",
+      "Code": "KOKAA573",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Érzékelők és beavatkozók I.",
+      "Code": "KOKAA576",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járműfedélzeti rendszerek II.",
+      "Code": "KOKAA574",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": [
+        "KOKAA573"
+      ]
+    },
+    {
+      "Name": "Járműirányítás I.",
+      "Code": "KOKAA578",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járműfedélzeti rendszerek III.",
+      "Code": "KOKAA575",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": [
+        "KOKAA574"
+      ]
+    },
+    {
+      "Name": "Érzékelők és beavatkozók II.",
+      "Code": "KOKAA577",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": [
+        "KOKAA576"
+      ]
+    },
+    {
+      "Name": "Járműirányítás II.",
+      "Code": "KOKAA579",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": [
+        "KOKAA578",
+        "KOKAA138",
+        "KOKAA576$"
+      ]
+    },
+    {
+      "Name": "Járműfedélzeti kommunikáció",
+      "Code": "KOKAA580",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": [
+        "KOKAA139"
+      ]
+    },
+    {
+      "Name": "Megbízhatóság és biztonság",
+      "Code": "KOKAA582",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mobil gépek mechatrinokája",
+      "Code": "KOEAA581",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_jarmumechatronika",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járműanyagok",
+      "Code": "KOJJA565",
+      "Credit": 8,
+      "Lecture": 4,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "KOJJA106"
+      ]
+    },
+    {
+      "Name": "Szenzorika és anyagai ",
+      "Code": "KOJJA441",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "TE15AX17",
+        "KOJJA106"
+      ]
+    },
+    {
+      "Name": "Gyártásautomatizálás",
+      "Code": "KOJJA567",
+      "Credit": 7,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "KOGJA450"
+      ]
+    },
+    {
+      "Name": "Járműgyártás folyamatai I.",
+      "Code": "KOJJA568",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "KOJJA106"
+      ]
+    },
+    {
+      "Name": "Járműgyártás folyamatai II.",
+      "Code": "KOJJA569",
+      "Credit": 13,
+      "Lecture": 4,
+      "Seminar": 3,
+      "Lab": 3,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "KOJJA568"
+      ]
+    },
+    {
+      "Name": "Minőségügyi rendszerek",
+      "Code": "KOJJA570",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "KOGJA154"
+      ]
+    },
+    {
+      "Name": "Járműdiagnosztika",
+      "Code": "KOJJA572",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szerelés",
+      "Code": "KOJJA571",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_jarmugyartas",
+      "Prerequisite": [
+        "KOJJA569",
+        "KOJJA570$"
+      ]
+    },
+    {
+      "Name": "Vasúti jármű mechatronika",
+      "Code": "KOVJA530",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": [
+        "KOKAA139"
+      ]
+    },
+    {
+      "Name": "Vasúti járműszerkezetek I.",
+      "Code": "KOVJA502",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Vasúti járműszerkezetek II.",
+      "Code": "KOVJA503",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Villamos vasutak I.",
+      "Code": "KOVJA506",
+      "Credit": 6,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": [
+        "KOKAA139"
+      ]
+    },
+    {
+      "Name": "Dízel vontatójárművek I.",
+      "Code": "KOVJA504",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": [
+        "KOVRA194"
+      ]
+    },
+    {
+      "Name": "Dízel vontatójárművek II.",
+      "Code": "KOVJA505",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": [
+        "KOVRA497$"
+      ]
+    },
+    {
+      "Name": "Vasúti járművek karbantartása és javítása",
+      "Code": "KOVJA592",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Villamos vasutak II.",
+      "Code": "KOVJA507",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": [
+        "KOKAA139",
+        "KOVJA506$"
+      ]
+    },
+    {
+      "Name": "Vasúti járművek üzeme és diagnosztikája",
+      "Code": "KOVJA508",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Vasúti fékberendezések ",
+      "Code": "KOVJA509",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Megbízhatóság és biztonság",
+      "Code": "KOKAA582",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Vasúti jármű méréstechnika és labor",
+      "Code": "KOVJA510",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_vasutijarmuvek",
+      "Prerequisite": [
+        "KOVJA503$"
+      ]
+    },
+    {
+      "Name": "Hajók hajtása I.",
+      "Code": "KOVRA465",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Hajók elmélete I.",
+      "Code": "KOVRA470",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Hajók elmélete II.",
+      "Code": "KORHA534",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA470"
+      ]
+    },
+    {
+      "Name": "Hajók hajtása II.",
+      "Code": "KOVRA466",
+      "Credit": 5,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA465"
+      ]
+    },
+    {
+      "Name": "Hajószerkezettan",
+      "Code": "KOVRA467",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOJSA192",
+        "KOJJA106$"
+      ]
+    },
+    {
+      "Name": "Hajóépítés technológiája",
+      "Code": "KOVRA468",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA467",
+        "KOGJA450$"
+      ]
+    },
+    {
+      "Name": "Fedélzeti berendezések",
+      "Code": "KOVRA471",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KORHA534"
+      ]
+    },
+    {
+      "Name": "Hajógépek",
+      "Code": "KOVRA469",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA496"
+      ]
+    },
+    {
+      "Name": "Hajó csőrendszerek",
+      "Code": "KOVRA474",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA195"
+      ]
+    },
+    {
+      "Name": "Hajózás I. (Hajózási üzemtan)",
+      "Code": "KOVRA473",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 6,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA470"
+      ]
+    },
+    {
+      "Name": "Hajózás II. (Hajózási gazdaságtan)",
+      "Code": "KORHA544",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KOVRA473"
+      ]
+    },
+    {
+      "Name": "Kishajók",
+      "Code": "KOVRA472",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_vizijarmuvek",
+      "Prerequisite": [
+        "KORHA534"
+      ]
+    },
+    {
+      "Name": "Anyagmozgatógépek I.",
+      "Code": "KOALA486",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Hajtástechnika I.",
+      "Code": "KOALA488",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építőipari projekt menedzsment",
+      "Code": "KOALA452",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Betontechnológiai gépek I.",
+      "Code": "KOALA484",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Automatizálás-technika",
+      "Code": "KOALA492",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": [
+        "KOKAA139"
+      ]
+    },
+    {
+      "Name": "Betontechnológiai gépek II.",
+      "Code": "KOALA485",
+      "Credit": 7,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": [
+        "KOALA484"
+      ]
+    },
+    {
+      "Name": "Építőgépek I.",
+      "Code": "KOALA448",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Hajtástechnika II.",
+      "Code": "KOALA489",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": [
+        "KOALA488"
+      ]
+    },
+    {
+      "Name": "Mobilgépek fedélzeti eszközei",
+      "Code": "KOALA491",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Építőgépek II.",
+      "Code": "KOALA449",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_epitogepek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Anyagmozgatógépek I.",
+      "Code": "KOALA486",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Hajtástechnika I.",
+      "Code": "KOALA488",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Anyagmozgatási projekt menedzsment",
+      "Code": "KOALA456",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Anyagmozgatógépek II.",
+      "Code": "KOALA477",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Automatizálás-technika",
+      "Code": "KOALA492",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": [
+        "KOKAA139"
+      ]
+    },
+    {
+      "Name": "Anyagmozgatási projekt",
+      "Code": "KOALA459",
+      "Credit": 7,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": [
+        "KOALA486",
+        "KOALA477$"
+      ]
+    },
+    {
+      "Name": "Robottechnika",
+      "Code": "KOALA460",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Hajtástechnika II.",
+      "Code": "KOALA489",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": [
+        "KOALA488"
+      ]
+    },
+    {
+      "Name": "Mobilgépek fedélzeti eszközei",
+      "Code": "KOALA491",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járműipari anyagmozgatási rendszerek",
+      "Code": "KOALA430",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_automatizaltanyagmozgato",
+      "Prerequisite": [
+        "KOALA486"
+      ]
+    },
+    {
+      "Name": "Felépítmény típusismeret",
+      "Code": "KOJSA483",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Járműfelépítmény mechanizmusok",
+      "Code": "KOJKA584",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 4,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": [
+        "KOJSA191"
+      ]
+    },
+    {
+      "Name": "Törés és károsodás",
+      "Code": "KOJSA478",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Felépítmény hidraulika és pneumatika",
+      "Code": "KOJSA475",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 5,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Szendvics szerkezetek",
+      "Code": "KOJSA476",
+      "Credit": 4,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 5,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Felépítmények dinamikája",
+      "Code": "KOJSA479",
+      "Credit": 8,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": [
+        "KOJKA165$"
+      ]
+    },
+    {
+      "Name": "Felépítmények vizsgálatai",
+      "Code": "KOJSA480",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": [
+        "KOJKA165$"
+      ]
+    },
+    {
+      "Name": "Vázszserkezet számítás numerikus módszerei I.",
+      "Code": "KOJSA481",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Vizsga",
+      "Semester": 6,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": [
+        "KOJKA165$"
+      ]
+    },
+    {
+      "Name": "Szilárdtest mechanika válogatott fejezetei",
+      "Code": "KOJSA482",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": [
+        "KOJSA479"
+      ]
+    },
+    {
+      "Name": "Vázszserkezet számítás numerikus módszerei II.",
+      "Code": "KOJSA487",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Félévközi jegy",
+      "Semester": 7,
+      "Type": "Szakirany_jarmufelepitmenyek",
+      "Prerequisite": [
+        "KOJSA481"
+      ]
+    }
+  ]
+}

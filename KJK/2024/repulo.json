@@ -1,0 +1,804 @@
+{
+  "Subjects": [
+    {
+      "Name": "Mathematics G1",
+      "Code": "BMETE93BG01",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Technical Chemistry",
+      "Code": "BMEVEKFBs6AP1MK-01",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Introduction to Mechanincal Engineering",
+      "Code": "BMEGEHDBSXIMEA-01",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 1,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Communication I.",
+      "Code": "BMEGEENBSXCOM1-01",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Informatics",
+      "Code": "BMEKOKJBsP1001-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 2,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Engineering Drawing 1.",
+      "Code": "BMEKOJSA498",
+      "Credit": 6,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Basics of Aviation I.",
+      "Code": "BMEKORHBsP1001-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 1,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mathematics G2",
+      "Code": "BMETE93BG02",
+      "Credit": 6,
+      "Lecture": 4,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMETE93BG01~"
+      ]
+    },
+    {
+      "Name": "Mechanics 1",
+      "Code": "BMEKOJSA191",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEVGBG01$"
+      ]
+    },
+    {
+      "Name": "Electrotechnics – Electronics",
+      "Code": "BMEKOKAA139",
+      "Credit": 6,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Engineering Drawing 2.",
+      "Code": "BMEKOJSA499",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKOJSA498"
+      ]
+    },
+    {
+      "Name": "Air Law and ATC Procedures",
+      "Code": "BMEKORHBsP2001-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Basics of Aviation II",
+      "Code": "BMEKORHBsP2002-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 2,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mathematics G3k",
+      "Code": "BMETEMIBSGMAT3-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMETE93BG02~"
+      ]
+    },
+    {
+      "Name": "Mechanics 2A",
+      "Code": "BMEKOVJBsP3001-00",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKOJSA191",
+        "BMETE93BG01"
+      ]
+    },
+    {
+      "Name": "Fluid Dynamics, Thermodynamics and Heat Transfer 1",
+      "Code": "BMEKORHBsP3001-00",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMETE94BG02"
+      ]
+    },
+    {
+      "Name": "Statics of Structures",
+      "Code": "BMEKOJSA192",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKOJSA191"
+      ]
+    },
+    {
+      "Name": "Materials and manufacturing",
+      "Code": "BMEKOGJBsP3001-00",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Vehicle and Drive Elements 1",
+      "Code": "BMEKOJSA493",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKOJSA499"
+      ]
+    },
+    {
+      "Name": "Principles of Flight",
+      "Code": "BMEKORHBsP3002-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "General Navigation",
+      "Code": "BMEGEATBSXNAVI-01",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKORHBsP2002-00"
+      ]
+    },
+    {
+      "Name": "Flying Practice I.",
+      "Code": "BMEGEENBSXPRC1-01",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 3,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKORHBsP2002-00"
+      ]
+    },
+    {
+      "Name": "Fluid Dynamics, Thermodynamics and Heat Transfer 2",
+      "Code": "BMEKORHBsP4003-00",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKORHBsP3001-00"
+      ]
+    },
+    {
+      "Name": "Vehicle and Drive Elements 2.",
+      "Code": "BMEKOJSA494 ",
+      "Credit": 4,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKOJSA499"
+      ]
+    },
+    {
+      "Name": "Electrics and Electronics",
+      "Code": "BMEKORHBsP4001-00",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Airframes and Systems",
+      "Code": "BMEKORHBsP4004-00",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Instrumentation",
+      "Code": "BMEKORHBsP4002-00",
+      "Credit": 5,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Meteorology",
+      "Code": "BMEGEATBSXMTRL-01",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Radio Navigation",
+      "Code": "BMEKORHBsP4A01-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Flying Practice II.",
+      "Code": "BMEGEENBSXPRC2-01",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term  ",
+      "Semester": 4,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXPRC1-01"
+      ]
+    },
+    {
+      "Name": "Quality management",
+      "Code": "BMEKOGJA154",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Basic IR",
+      "Code": "BMEGEENBSXBCIR-01",
+      "Credit": 2,
+      "Lecture": 1,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKORHBsP4002-00",
+        "BMEKORHBsP4A01-00",
+        "BMEKORHBsP2001-00"
+      ]
+    },
+    {
+      "Name": "Logical networks",
+      "Code": "BMEKOKA137",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKOKAA139~"
+      ]
+    },
+    {
+      "Name": "Powerplant",
+      "Code": "BMEGEENBSXPOWR-01",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKORHBsP3001-00"
+      ]
+    },
+    {
+      "Name": "Human Performance",
+      "Code": "BMEGTxxxxxxxxx",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Flight Planning and Monitoring",
+      "Code": "BMEKORHBsP5A01-00",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "MEGEATBSXNAVI-01",
+        "BMEKORHBsP4A01-00"
+      ]
+    },
+    {
+      "Name": "Communication II.",
+      "Code": "BMEGEENBSXCOM2-01",
+      "Credit": 3,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXCOM1-01"
+      ]
+    },
+    {
+      "Name": "Optional Course 1.",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Optional Course 2.",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Flying Practice III.",
+      "Code": "BMEGEENBSXPRC3-01",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 5,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXPRC2-01"
+      ]
+    },
+    {
+      "Name": "Micro- and Macroeconomics",
+      "Code": "BMEGTxxxxxxxxx2",
+      "Credit": 4,
+      "Lecture": 4,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Business Law",
+      "Code": "BMEGT55A001",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Control",
+      "Code": "BMEKOKAA138",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMETEMIBSGMAT3-00$",
+        "BMEKOKAA139~"
+      ]
+    },
+    {
+      "Name": "Multi Engine",
+      "Code": "BMEGEENBSXMENG-01",
+      "Credit": 3,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXBCIR-01"
+      ]
+    },
+    {
+      "Name": "Flight Performance",
+      "Code": "BMEGEENBSXPRMN-01",
+      "Credit": 5,
+      "Lecture": 2,
+      "Seminar": 3,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXBCIR-01"
+      ]
+    },
+    {
+      "Name": "Operational Procedures",
+      "Code": "BMEKOKKBsP6A01-00",
+      "Credit": 4,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Mass and Balance",
+      "Code": "BMEGEENBSXBLNC-01",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 1,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Exam",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEKORHBsP4004-00"
+      ]
+    },
+    {
+      "Name": "Optional Course 3.",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Optional Course 4.",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Flying Practice IV.",
+      "Code": "BMEGEENBSXPRC4-01",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 6,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXPRC3-01"
+      ]
+    },
+    {
+      "Name": "Management and Microeconomics",
+      "Code": "BMEKOKGA109",
+      "Credit": 4,
+      "Lecture": 3,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Work Organization",
+      "Code": "BMEKOKUA169",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Labour Safety",
+      "Code": "BMEKOEAA111",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Multi-crew cooperation and Jet orientation",
+      "Code": "BMEGEENBXRMPIL-01",
+      "Credit": 3,
+      "Lecture": 1,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXBCIR-01",
+        "BMEGEENBSXMENG-01",
+        "BMEGEENBSXPRMN-01"
+      ]
+    },
+    {
+      "Name": "Optional Course 5.",
+      "Code": "-",
+      "Credit": 2,
+      "Lecture": 2,
+      "Seminar": 0,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Bachelor Thesis",
+      "Code": "",
+      "Credit": 15,
+      "Lecture": 0,
+      "Seminar": 8,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": []
+    },
+    {
+      "Name": "Flying Practice V.",
+      "Code": "BMEGEENBSXPRC5-01",
+      "Credit": 2,
+      "Lecture": 0,
+      "Seminar": 2,
+      "Lab": 0,
+      "Consultation": 0,
+      "Requirement": "Mid-Term",
+      "Semester": 7,
+      "Type": "Torzs",
+      "Prerequisite": [
+        "BMEGEENBSXPRC4-0"
+      ]
+    }
+  ]
+}
