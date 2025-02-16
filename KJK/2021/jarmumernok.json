@@ -642,7 +642,9 @@
       "Requirement": "Félévközi jegy",
       "Semester": 5,
       "Type": "Szakirany_gepjarmuvek",
-      "Prerequisite": []
+      "Prerequisite": [
+        "KOGJA511"
+      ]
     },
     {
       "Name": "Gépjármű futóművek II.",

@@ -43,7 +43,7 @@ Munkavédelem;KOEAA111;2;2;0;0;0;Félévközi jegy;7;Torzs;-
 Szakdolgozat;-;15;0;8;0;0;Vizsga;7;Torzs;-
 Gépjárművek erőátvitele I.;KOGJA511;3;2;0;1;0;Félévközi jegy;4;Szakirany_gepjarmuvek;-
 Gépjármű futóművek I.;KOGJA513;5;2;1;0;0;Félévközi jegy;4;Szakirany_gepjarmuvek;-
-Gépjárművek erőátvitele II.;KOGJA512;4;0;1;1;0;Félévközi jegy;5;Szakirany_gepjarmuvek;-
+Gépjárművek erőátvitele II.;KOGJA512;4;0;1;1;0;Félévközi jegy;5;Szakirany_gepjarmuvek;KOGJA511,
 Gépjármű futóművek II.;KOGJA514;5;2;1;2;0;Vizsga;5;Szakirany_gepjarmuvek;KOGJA513,
 Gépjármű motorok I.;KOGJA515;4;3;0;0;0;Félévközi jegy;5;Szakirany_gepjarmuvek;KOVRA496!,
 Gépjármű motorok II.;KOGJA516;8;4;2;2;0;Vizsga;6;Szakirany_gepjarmuvek;KOGJA515,
